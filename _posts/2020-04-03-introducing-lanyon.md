@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Introducing my new website
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+This is an attempt at creating something new. Along the way, I hope I can understand better how to use Github pages as a static site option. 
 
 ### Built on Poole
 
