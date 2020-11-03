@@ -5,6 +5,7 @@ title: Curriculum Vitae
 
 # Keelan Cook
 *Associate Director at [Union Baptist Association](ubahouston.org)*
+
 *Instructor of North American Missiology at [Southeastern Baptist Theological Seminary](sebts.edu)*
 
 
