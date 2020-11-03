@@ -2,7 +2,7 @@
 layout: post
 title: My First Post
 author: Keelan Cook
-tags: Test, Missions
+tags: test missions
 ---
 
 This is my first blog post on this new website. I made this one from scratch. I'm hoping to see how it works.
