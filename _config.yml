@@ -2,7 +2,7 @@
 title:               Keelan Cook
 tagline:             'North American Missiologist'
 description:         'This is just an experiment with different ways of hosting my personal website. This  may grow into something more, but it will take some work for that to be the case.'
-url:                 http://lanyon.getpoole.com
+url:                 https://keelancook.github.io/lanyon/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
