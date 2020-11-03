@@ -1,7 +1,7 @@
 # Setup
 title:               Keelan Cook
 tagline:             'Missiologist'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A test website for learing how to use Github Pages as an online home. This may grow into something more, but we will have to wait and see!'
 url:                 https://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
