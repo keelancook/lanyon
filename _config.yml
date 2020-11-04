@@ -1,7 +1,7 @@
 # Setup
 title:               Keelan Cook
 tagline:             'Missiologist'
-description:         'A test website for learning how to use Github Pages as an online home. This may grow into something more, but we will have to wait and see!'
+description:         '<img src=/public/cook Family(1).png> A test website for learning how to use Github Pages as an online home. This may grow into something more, but we will have to wait and see!'
 url:                 https://keelancook.gq
 baseurl:             ''
 paginate:            5
