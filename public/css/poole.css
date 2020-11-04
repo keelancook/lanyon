@@ -32,7 +32,17 @@
 /*
  * Body resets
  *
- * Update the foundational and global aspects of the page.
+ * Image Adjustments
+ */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+ 
+/* Update the foundational and global aspects of the page.
  */
 
 * {
