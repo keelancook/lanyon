@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+
 ---
 
 ## Current
@@ -56,5 +57,5 @@ Southeastern Baptist Theological Seminary, *Wake Forest, NC*
 **Coordinator of Markering and Enrollment** (2006-2007)
 Union University, *Jackson, TN*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY4OTkyOTldfQ==
+eyJoaXN0b3J5IjpbLTcxOTI1NTg2MV19
 -->
