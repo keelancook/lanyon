@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
+*Testing Stackedit connection*
 
 ## Current
 *Associate Director at [Union Baptist Association](ubahouston.org)*
@@ -55,3 +56,6 @@ Southeastern Baptist Theological Seminary, *Wake Forest, NC*
 
 **Coordinator of Markering and Enrollment** (2006-2007)
 Union University, *Jackson, TN*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODUxMDQwODgzXX0=
+-->
