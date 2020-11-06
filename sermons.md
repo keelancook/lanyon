@@ -61,11 +61,18 @@ Below is a short list of sermons from other venues. Most of these are churches i
 	Venue: Copperfield Church
 
 #### Missions is Changing (Go Conference)
-<div class
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5J6tjcafrWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+	Text: none
+	Date: January 30, 2016
+	Venue: Southeastern Baptist Theological Seminary
+	Event: Go Conference
 
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMjEyODkyLDMyODM3NTcwLC01MTAwMT
-kxOTcsLTM2NzgxNzAsNjI1ODY0Nzk1LC0xOTE5NjU5MDExLC0x
-OTQzNTU5NjY3XX0=
+eyJoaXN0b3J5IjpbMTU5MDQwNTI3OSwzMjgzNzU3MCwtNTEwMD
+E5MTk3LC0zNjc4MTcwLDYyNTg2NDc5NSwtMTkxOTY1OTAxMSwt
+MTk0MzU1OTY2N119
 -->
