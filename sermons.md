@@ -55,10 +55,11 @@ Below is a short list of sermons from other venues. Most of these are churches i
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPhYTpp4CVs?start=2188" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </div>
 	
-	Text: Romans 6:1-8
+	Text: Romans 6:1-14
+	
 
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1ODY0Nzk1LC0xOTE5NjU5MDExLC0xOT
-QzNTU5NjY3XX0=
+eyJoaXN0b3J5IjpbLTM2NzgxNzAsNjI1ODY0Nzk1LC0xOTE5Nj
+U5MDExLC0xOTQzNTU5NjY3XX0=
 -->
