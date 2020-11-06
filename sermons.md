@@ -60,9 +60,12 @@ Below is a short list of sermons from other venues. Most of these are churches i
 	Date: April 21, 2019
 	Venue: Copperfield Church
 
+#### Missions is Changing (Go Conference)
+<div class
+
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4Mzc1NzAsLTUxMDAxOTE5NywtMzY3OD
-E3MCw2MjU4NjQ3OTUsLTE5MTk2NTkwMTEsLTE5NDM1NTk2Njdd
-fQ==
+eyJoaXN0b3J5IjpbMzQwMjEyODkyLDMyODM3NTcwLC01MTAwMT
+kxOTcsLTM2NzgxNzAsNjI1ODY0Nzk1LC0xOTE5NjU5MDExLC0x
+OTQzNTU5NjY3XX0=
 -->
