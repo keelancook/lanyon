@@ -49,9 +49,11 @@ Neartown is our current church family and I have the pleasure of serving on the 
 ---
 
 ## Other Venues
-Below is a short list of sermons from other venues. Most of these are churches in our local associatio 
+Below is a short list of sermons from other venues. Most of these are churches in our local association in Houston. I'm privileged to preach often in our network of churches. Others are conferences or seminars.
+
+ 
 
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NzA0OTA4XX0=
+eyJoaXN0b3J5IjpbLTE5NDM1NTk2NjddfQ==
 -->
