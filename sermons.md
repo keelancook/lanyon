@@ -51,15 +51,17 @@ Neartown is our current church family and I have the pleasure of serving on the 
 ## Other Venues
 Below is a short list of sermons from other venues. Most of these are churches in our local association in Houston. I'm privileged to preach often in our network of churches. Others are conferences or seminars.
 
+#### Redemption Accomplished and Applied
 <div class="video.responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPhYTpp4CVs?start=2188" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </div>
 	
 	Text: Romans 6:1-14
-	
+	Date: April 21, 2019
+	Venue: Copperfield Church
 
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzgxNzAsNjI1ODY0Nzk1LC0xOTE5Nj
-U5MDExLC0xOTQzNTU5NjY3XX0=
+eyJoaXN0b3J5IjpbLTUxMDAxOTE5NywtMzY3ODE3MCw2MjU4Nj
+Q3OTUsLTE5MTk2NTkwMTEsLTE5NDM1NTk2NjddfQ==
 -->
