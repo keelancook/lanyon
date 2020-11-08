@@ -21,8 +21,11 @@ title: Curriculum Vitae
 
 ## Ministry Experience
 
-**Associate Director**  (2017-Present)
+**Associate Director**  (2020-Present)
 Union Baptist Association, *Houston, TX*
+
+**Senior Church Consultant** (2017-2019)
+
 
 **Pastor** (2013-2017)
 Imago Dei Church, *Raleigh, NC*
@@ -78,5 +81,6 @@ Trends (February 19, 2018).
 * “Moving Past Urban Ministry: Rethinking a Popular Definition," Evangelical Missiological Society National Meeting, September 19, 2015, at the Graduate Institue of Applied Linguistics (Dallas, TX).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTk3ODc2MSwtNzE5MjU1ODYxXX0=
+eyJoaXN0b3J5IjpbMTgzNTg5NTE4MSwxODUxOTc4NzYxLC03MT
+kyNTU4NjFdfQ==
 -->
