@@ -2,6 +2,7 @@
 layout: page
 title: Sermons
 tags: page
+
 ---
 
 ---
@@ -86,7 +87,8 @@ Below is a short list of sermons from other venues. Most of these are churches i
 
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MTAzMDU3LC0xODM0MTQyNjY2LC01MT
-Y3MDgyNTYsMzI4Mzc1NzAsLTUxMDAxOTE5NywtMzY3ODE3MCw2
-MjU4NjQ3OTUsLTE5MTk2NTkwMTEsLTE5NDM1NTk2NjddfQ==
+eyJoaXN0b3J5IjpbOTY1NTY2NTYzLDQxNjEwMzA1NywtMTgzND
+E0MjY2NiwtNTE2NzA4MjU2LDMyODM3NTcwLC01MTAwMTkxOTcs
+LTM2NzgxNzAsNjI1ODY0Nzk1LC0xOTE5NjU5MDExLC0xOTQzNT
+U5NjY3XX0=
 -->
