@@ -72,6 +72,8 @@ Below is a short list of sermons from other venues. Most of these are churches i
 	Venue: Southeastern Baptist Theological Seminary
 	Event: Go Conference
 
+---
+
 #### God's All Encompassing Mission
 <div class="video-responsive">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/187853249" width="560" height="315" frameborder="0" allowfullscreen></iframe>
@@ -84,7 +86,7 @@ Below is a short list of sermons from other venues. Most of these are churches i
 
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQxNDI2NjYsLTUxNjcwODI1NiwzMj
-gzNzU3MCwtNTEwMDE5MTk3LC0zNjc4MTcwLDYyNTg2NDc5NSwt
-MTkxOTY1OTAxMSwtMTk0MzU1OTY2N119
+eyJoaXN0b3J5IjpbNDE2MTAzMDU3LC0xODM0MTQyNjY2LC01MT
+Y3MDgyNTYsMzI4Mzc1NzAsLTUxMDAxOTE5NywtMzY3ODE3MCw2
+MjU4NjQ3OTUsLTE5MTk2NTkwMTEsLTE5NDM1NTk2NjddfQ==
 -->
