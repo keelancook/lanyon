@@ -71,10 +71,12 @@ Trends (February 19, 2018).
 ---
 
 ## Presentations
-*"Super-Diversity and Urban Mission," Evangelical Missiological Society South-Central Regional
-Meeting, April 7, 2018, at the Graduate Institute of Applied Linguistics (Dallas, TX).
 
 #### Evangelical Missiological Society
+* "Super-Diversity and Urban Mission," Evangelical Missiological Society South-Central Regional Meeting, April 7, 2018, at the Graduate Institute of Applied Linguistics (Dallas, TX).
+* "The Church and Her Mission to the Cities: Developing Missiological Method for the Urban Context," Evangelical Missiological Society National Meeting October 14, 2016, at the Graduate Institute of Applied Linguistics (Dallas, TX).
+* “Moving Past Urban Ministry: Rethinking a Popular Definition," Evangelical Missiological Society National Meeting, September 19, 2015, at the Graduate Institue of Applied Linguistics (Dallas, TX).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjg0MDg2LC03MTkyNTU4NjFdfQ==
+eyJoaXN0b3J5IjpbMTg1MTk3ODc2MSwtNzE5MjU1ODYxXX0=
 -->
