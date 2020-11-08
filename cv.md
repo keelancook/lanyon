@@ -4,24 +4,20 @@ title: Curriculum Vitae
 
 ---
 
+
 ## Current
 *Associate Director at [Union Baptist Association](ubahouston.org)*
 
 *Instructor of North American Missiology at [Southeastern Baptist Theological Seminary](sebts.edu)*
 
-
 ---
-
 
 ## Education
 * Doctor of Philosophy in Applied Theology (In process) - *Southeastern Baptist Theological Seminary*
 * Master of Arts in Christian Studies - *Union University*
 * Bachelor of Arts in Public Relations - *Union University*
 
-
-
 ---
-
 
 ## Ministry Experience
 
@@ -40,11 +36,7 @@ International Mission Board, *West Africa*
 **College Minister** (2005-2009)
 First Baptist Church, *Humboldt, TN*
 
-
-
 ---
-
-
 
 ## Teaching and Higher Education Experience
 
@@ -56,6 +48,14 @@ Southeastern Baptist Theological Seminary, *Wake Forest, NC*
 
 **Coordinator of Markering and Enrollment** (2006-2007)
 Union University, *Jackson, TN*
+
+---
+
+## Publications
+
+### Articles & Chapters
+
+### Se
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTI1NTg2MV19
+eyJoaXN0b3J5IjpbLTE2OTE1MjA3NTgsLTcxOTI1NTg2MV19
 -->
