@@ -43,10 +43,6 @@
  * This snippet allows me to center images.
  */
 
-.sidebar .social-icons a:hover {
-  text-decoration: none;
-}
-
 .center {
   display: block;
   margin-left: auto;
