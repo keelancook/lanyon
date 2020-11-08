@@ -80,9 +80,11 @@ Below is a short list of sermons from other venues. Most of these are churches i
 	Text: Matthew 28:18-20
 	Date: October 16, 2016
 	Venue: Harmony Hill Baptist Church
+
+
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTcxOTU4ODYsLTUxNjcwODI1NiwzMj
+eyJoaXN0b3J5IjpbLTE4MzQxNDI2NjYsLTUxNjcwODI1NiwzMj
 gzNzU3MCwtNTEwMDE5MTk3LC0zNjc4MTcwLDYyNTg2NDc5NSwt
 MTkxOTY1OTAxMSwtMTk0MzU1OTY2N119
 -->
