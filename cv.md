@@ -54,8 +54,9 @@ Union University, *Jackson, TN*
 ## Publications
 
 ### Articles & Chapters
-“The Church and Her Mission to the Cities: A Theological Rubric to Evaluate Urban Mission
-Methods,” Occasional Bulletin of EMS 30.2 (Spring 2017).
+* “The Church and Her Mission to the Cities: A Theological Rubric to Evaluate Urban Mission
+Methods,” *Occasional Bulletin of EMS* 30.2 (Spring 2017).
+* "Unreached People Groups," Patterned: Sharing and Imitating Christ Together (NC Baptists,
 
 ### Selected Essays
 
@@ -66,5 +67,5 @@ Methods,” Occasional Bulletin of EMS 30.2 (Spring 2017).
 
 #### Evangelical Missiological Society
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNDY1NDgyLC03MTkyNTU4NjFdfQ==
+eyJoaXN0b3J5IjpbLTE1ODc3NzY0NTYsLTcxOTI1NTg2MV19
 -->
