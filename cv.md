@@ -59,14 +59,22 @@ Methods,” *Occasional Bulletin of EMS* 30.2 (Spring 2017).
 * "Unreached People Groups," Patterned: Sharing and Imitating Christ Together (NC Baptists, 2017).
 
 ### Selected Essays
-"Cross-Cultural Missions: Crossing Streets and Crossing Oceans," imb.org (February 14, 2019).
+* "Cross-Cultural Missions: Crossing Streets and Crossing Oceans," imb.org (February 14, 2019).
+* "Contextualization as Gospel Incarnation," Send Institute (June 26, 2018).
+* "The de-Europeanization of American Christianity," Send Institute (April 3, 2018).
+* "Demographics that Speak," Send Institute (January 30, 2018).
+* "Some American Muslims Leave Islam, But Protestant Converts Often Replace Them," Facts &
+Trends (February 19, 2018).
+* "Engaging people groups: Cultural expertise vs. cultural acquisition," NCBaptist.org
+(November 23, 2015).
 
 ---
 
 ## Presentations
-
+*"Super-Diversity and Urban Mission," Evangelical Missiological Society South-Central Regional
+Meeting, April 7, 2018, at the Graduate Institute of Applied Linguistics (Dallas, TX).
 
 #### Evangelical Missiological Society
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTQ0OTI5LC03MTkyNTU4NjFdfQ==
+eyJoaXN0b3J5IjpbMTEwNjg0MDg2LC03MTkyNTU4NjFdfQ==
 -->
