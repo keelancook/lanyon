@@ -14,8 +14,8 @@ title: Curriculum Vitae
 
 ## Education
 * Doctor of Philosophy in Applied Theology (In process) - *Southeastern Baptist Theological Seminary*
-* Master of Arts in Christian Studies - *Union University*
-* Bachelor of Arts in Public Relations - *Union University*
+* Master of Arts in Christian Studies (2008) - *Union University*
+* Bachelor of Arts in Public Relations (2004) - *Union University*
 
 ---
 
@@ -81,6 +81,6 @@ Trends (February 19, 2018).
 * “Moving Past Urban Ministry: Rethinking a Popular Definition," Evangelical Missiological Society National Meeting, September 19, 2015, at the Graduate Institue of Applied Linguistics (Dallas, TX).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkxNDQzNjgsMTg1MTk3ODc2MSwtNz
-E5MjU1ODYxXX0=
+eyJoaXN0b3J5IjpbLTU0NjIzMzk3MCwxODUxOTc4NzYxLC03MT
+kyNTU4NjFdfQ==
 -->
