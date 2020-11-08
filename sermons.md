@@ -72,9 +72,17 @@ Below is a short list of sermons from other venues. Most of these are churches i
 	Venue: Southeastern Baptist Theological Seminary
 	Event: Go Conference
 
+#### God's All Encompassing Mission
+<div class="video-responsive">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/187853249" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</div>
+
+	Text: Matthew 28:18-20
+	Date: October 16, 2016
+	Venue: Harmony Hill Baptist Church
 <!-- I need to get: (1) Sermon from copperfield, (2) Lufkin (?), (3) Go Talk, (4) Clear Lake? -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjcwODI1NiwzMjgzNzU3MCwtNTEwMD
-E5MTk3LC0zNjc4MTcwLDYyNTg2NDc5NSwtMTkxOTY1OTAxMSwt
-MTk0MzU1OTY2N119
+eyJoaXN0b3J5IjpbLTEyMTcxOTU4ODYsLTUxNjcwODI1NiwzMj
+gzNzU3MCwtNTEwMDE5MTk3LC0zNjc4MTcwLDYyNTg2NDc5NSwt
+MTkxOTY1OTAxMSwtMTk0MzU1OTY2N119
 -->
