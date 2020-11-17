@@ -4,9 +4,9 @@ title: Book Notes
 
 ---
 
-The following is a compilation of my notes from various books on a range of topics. 
-
+These book notes are an ongoing experiment. I've benefit
 {% include archive.html %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTk1MTc3MywxNjY2OTI5Nzk1XX0=
+eyJoaXN0b3J5IjpbLTE2NTcyODc0NDgsMTc0NTk1MTc3MywxNj
+Y2OTI5Nzk1XX0=
 -->
