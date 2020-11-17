@@ -2,6 +2,7 @@
 layout: post
 title: Welcome to my personal website!
 author: Keelan Cook
+tags: welcome 
 
 ---
 
@@ -11,5 +12,5 @@ This site is the result of a couple of desires. First, I've been wanting an onli
 
 In addition, I’m attempting to learn more about building my own websites with Jekyll. This site is hosted on my own Github repository. It is a free, relatively secure means of building your own website. I've been intrigued by the use of static websites and markdown for content management for a while now, and though I don't know much about it, I finally figured out enough to give it a stab on my own.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDA4OTQ2MV19
+eyJoaXN0b3J5IjpbLTEzMTg0MjIzOTQsMjA5NDA4OTQ2MV19
 -->
