@@ -5,7 +5,7 @@ title: Book Notes
 ---
 
 ## Book Notes
-The 
+The following is a compilation of my notes from various books on a range of topics. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ4Njc4NTBdfQ==
+eyJoaXN0b3J5IjpbLTE5NjkyNTUwNjZdfQ==
 -->
