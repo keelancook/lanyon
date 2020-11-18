@@ -6,6 +6,7 @@ url:                 https://keelancook.ml
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+excerpt_separator:   <!--more-->
 
 # About/contact
 author:
