@@ -5,6 +5,8 @@ author: Keelan Cook
 tags: theology anthropology
 
 ---
+
+---
 **Citation:** Hoekema, Anthony A. *Created in God’s Image*. Grand Rapids: Wm. B. Eerdmans Publishing, 1994.
 
 ---
@@ -51,5 +53,6 @@ Of particular importance is Hoekema’s focus on the New Testament understanding
 As a text for missions, this work has value in developing understandings of sin, fallenness, and its effects on social structures. In addition, this work provides an encouraging word concerning human dignity and humanity’s need for the gospel. These ideas are all foundational to a healthy theology of mission.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2ODYwNDMxLC03MzE0OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbNTI4MjQwMzI2LDQ2Njg2MDQzMSwtNzMxND
+kxNDExXX0=
 -->
