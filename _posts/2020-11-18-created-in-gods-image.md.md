@@ -12,6 +12,8 @@ tags: theology anthropology
 ## Summary
 In Created in God’s Image, Anthony Hoekema sets out a full-formed doctrine of humanity concerning both its “nature and destiny” (7). In order to do so, Hoekema engages the biblical material and interacts with relevant theories across a number of theological positions landing on a Reformed understanding of the doctrine. As with any doctrine of humanity, Hoekema’s is centrally concerned with the image of God. His view is composite, claiming that the image of God has both structural and functional dimensions. Hoekema demonstrates this understanding as it plays out in three relationships: (1) humans to God, (2) humans to other humans, and (3) humans to the rest of creation. As do others, he notes that the image is affected by the fall and by redemption essentially existing in four stages throughout history: (1) the pre-fall image, (2) the fallen image, (3) the renewed image, and ultimately (4) the perfected image.
 
+<!--more-->
+
 ### Summary of Chapter One
 In order to introduce his topic, Hoekema notes a renewal of urgency around the questions of anthropology. With a dizzying array of philosophies in the public square, a robust treatment of the biblical understanding of man is needed. Hoekema calls for a line between both the idealistic and the materialistic anthropologies that dominate the landscape and a distinctly Christian understanding of humanity. In chapter 1, Hoekema claims this work will develop a such and understanding, distinguish it from other views of humanity, and then develop implications. Hoekema also notes that it is imperative to notice the areas where non-Christian views have impacted various Christian anthropologies (15).
 
@@ -49,5 +51,5 @@ Of particular importance is Hoekema’s focus on the New Testament understanding
 As a text for missions, this work has value in developing understandings of sin, fallenness, and its effects on social structures. In addition, this work provides an encouraging word concerning human dignity and humanity’s need for the gospel. These ideas are all foundational to a healthy theology of mission.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTQ5MTQxMV19
+eyJoaXN0b3J5IjpbNDY2ODYwNDMxLC03MzE0OTE0MTFdfQ==
 -->
