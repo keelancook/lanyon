@@ -12,7 +12,7 @@ tags: theology anthropology
 ---
 
 ## Summary
-In Created in God’s Image, Anthony Hoekema sets out a full-formed doctrine of humanity concerning both its “nature and destiny” (7). In order to do so, Hoekema engages the biblical material and interacts with relevant theories across a number of theological positions landing on a Reformed understanding of the doctrine. As with any doctrine of humanity, Hoekema’s is centrally concerned with the image of God. His view is composite, claiming that the image of God has both structural and functional dimensions. Hoekema demonstrates this understanding as it plays out in three relationships: (1) humans to God, (2) humans to other humans, and (3) humans to the rest of creation. As do others, he notes that the image is affected by the fall and by redemption essentially existing in four stages throughout history: (1) the pre-fall image, (2) the fallen image, (3) the renewed image, and ultimately (4) the perfected image.
+In *Created in God’s Image*, Anthony Hoekema sets out a full-formed doctrine of humanity concerning both its “nature and destiny” (7). In order to do so, Hoekema engages the biblical material and interacts with relevant theories across a number of theological positions landing on a Reformed understanding of the doctrine. As with any doctrine of humanity, Hoekema’s is centrally concerned with the image of God. His view is composite, claiming that the image of God has both structural and functional dimensions. Hoekema demonstrates this understanding as it plays out in three relationships: (1) humans to God, (2) humans to other humans, and (3) humans to the rest of creation. As do others, he notes that the image is affected by the fall and by redemption essentially existing in four stages throughout history: (1) the pre-fall image, (2) the fallen image, (3) the renewed image, and ultimately (4) the perfected image.
 
 <!--more-->
 
@@ -53,6 +53,6 @@ Of particular importance is Hoekema’s focus on the New Testament understanding
 As a text for missions, this work has value in developing understandings of sin, fallenness, and its effects on social structures. In addition, this work provides an encouraging word concerning human dignity and humanity’s need for the gospel. These ideas are all foundational to a healthy theology of mission.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MjQwMzI2LDQ2Njg2MDQzMSwtNzMxND
-kxNDExXX0=
+eyJoaXN0b3J5IjpbLTIwMjMzNTgzMDIsNTI4MjQwMzI2LDQ2Nj
+g2MDQzMSwtNzMxNDkxNDExXX0=
 -->
