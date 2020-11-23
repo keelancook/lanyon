@@ -1,7 +1,11 @@
-# Center Church (Keller, 2012)
+---
+layout: post
+title: Center Church (Keller, 2012)
+tags: missions 
+
 ---
 **Citation:**
-Timothy Keller. Center Church: Doing Balanced, Gospel-Centered Ministry in Your City. Grand Rapids: Zondervan, 2012. (pp. 88-247).
+Timothy Keller. Center Church: Doing Balanced, Gospel-Centered Ministry in Your City. Grand Rapids: Zondervan, 2012. (pp. 88-247).
 
 **Tags:** #missions | #church_planting | #urban | #anthropology
 
@@ -48,5 +52,5 @@ Keller’s weakest section deals with cultural engagement. Again, he does a stro
 
 With that critique in mind, this work is one of the most helpful resources written for contemporary missions practitioners. Applications are numerous. In one sense, it is a tutor for constructing theological vision and relating social sciences and Scripture. In another sence, it is a clear manual in for the urban church planter of pastor. For any missions student, it does a sufficient job introducing the history of key missiological concepts such as contextualization that it is worthy of use for a survey of the field. For the missiologist, Keller’s Center Church is a literary Swiss Army knife.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkwNTcwOF19
+eyJoaXN0b3J5IjpbNDYwOTUyMDE0XX0=
 -->
