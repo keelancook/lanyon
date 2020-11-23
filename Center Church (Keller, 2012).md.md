@@ -4,12 +4,13 @@ title: Center Church (Keller, 2012)
 tags: missions 
 
 ---
-**Citation:**
-Timothy Keller. Center Church: Doing Balanced, Gospel-Centered Ministry in Your City. Grand Rapids: Zondervan, 2012. (pp. 88-247).
-
-**Tags:** #missions | #church_planting | #urban | #anthropology
 
 ---
+**Citation:**
+Timothy Keller. *Center Church: Doing Balanced, Gospel-Centered Ministry in Your City*. Grand Rapids: Zondervan, 2012. (pp. 88-247).
+
+---
+
 ## Summary
 ### Introduction: Theological Vision
 In Center Church, Tim Keller takes on the bold task of developing a theological vision for urban mission. Keller notes that there is an often neglected step between the formation of doctrine and the practice of the church. This middle ground between orthodoxy and orthopraxy is the world of applied theology, and Keller’s central concern in this work is laying an applied theological foundation for the ministry of the church in our rapidly urbanizing world. In order to accomplish this goal Keller considers three broad topics: the central doctrine of the Christian faith, the gospel; the context of ministry, the city; and then the means and methods of ministry. Keller warns that attention must be given to theology and context to create formative missiological method. For Keller, Center Church, is his attempt to do more than survey topics of theology and culture, but to consider them in a way that leads to a method.
@@ -52,5 +53,5 @@ Keller’s weakest section deals with cultural engagement. Again, he does a stro
 
 With that critique in mind, this work is one of the most helpful resources written for contemporary missions practitioners. Applications are numerous. In one sense, it is a tutor for constructing theological vision and relating social sciences and Scripture. In another sence, it is a clear manual in for the urban church planter of pastor. For any missions student, it does a sufficient job introducing the history of key missiological concepts such as contextualization that it is worthy of use for a survey of the field. For the missiologist, Keller’s Center Church is a literary Swiss Army knife.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwOTUyMDE0XX0=
+eyJoaXN0b3J5IjpbLTEzMjE1MjY5ODhdfQ==
 -->
