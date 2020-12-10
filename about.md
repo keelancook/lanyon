@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-
-
+![](https://photos.app.goo.gl/5jEJ3ZSwhnCJoZzJ6)
 
 Hey there! You've stumbled upon my personal website. You can find my professional site here: [Peoples Next Door](https://keelancook.com). This site is really just an experiment. I'm attempting to learn more about building my own websites with [Jekyll](https://jekyllrb.com). 
 
@@ -19,5 +18,5 @@ You can find me on a handful or social media platforms:
 
 Thanks for reading!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjYwNTczMF19
+eyJoaXN0b3J5IjpbLTE2OTE4NzYzNjFdfQ==
 -->
