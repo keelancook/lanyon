@@ -14,10 +14,13 @@ The goal of this cohort is twofold. By combining a robust equipping process for 
 
 Missionary sending starts inside the local church. Instead of looking outside of our churches for people to go on our behalf, we want UBA churches to raise up missionaries right from their pews. This is how we multiply gospel laborers, by identifying our own members to send to the nations.
 
+### Character, Calling, and Competencies
 Pathways: IMB will provide a path for your church members from pew to plane in the missionary journey. Cross-cultural missions is a challenging task, and it requires a clear sense of calling, a character that is above reproach, and a specific set of competencies in order to engage in gospel witness across culture and worldview. Over the course of an intense eight months, this cohort will work to develop these three characteristics in the life of the potential sent out one.
+
+### 
 
 ## Applied to the IMB
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTIzNzQ2NSwtMTU3MDAwNDk1OSwyMD
-I2MTMxMTksNTQyMjY4OTMsMTY4MDQxMjM0MV19
+eyJoaXN0b3J5IjpbNzM3MzM2MzY0LC0xNTcwMDA0OTU5LDIwMj
+YxMzExOSw1NDIyNjg5MywxNjgwNDEyMzQxXX0=
 -->
