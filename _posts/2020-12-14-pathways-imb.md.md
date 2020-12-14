@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pathways: IMB
+title: Pathways IMB
 author: Keelan Cook
 
 ---
@@ -18,5 +18,6 @@ Pathways: IMB will
 
 ## Applied to the IMB
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMjY4OTMsMTY4MDQxMjM0MV19
+eyJoaXN0b3J5IjpbMjAyNjEzMTE5LDU0MjI2ODkzLDE2ODA0MT
+IzNDFdfQ==
 -->
