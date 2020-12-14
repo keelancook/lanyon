@@ -4,7 +4,7 @@ title: Pathways > IMB
 author: Keelan Cook
 
 ---
-
+[Imgur](https://imgur.com/DY1iUq2.png)
 
 Pathways: IMB is a cooperative equipping cohort facilitated by churches in the Union Baptist Association in partnership with the International Mission Board (IMB).  Our hope is to streamline the process of onboarding new mnissionaries and simplify the application process for those wanting to go. The IMB has worked hard with our association to create a process that both meets their requirements and allows us the freedom to design a system that meets the unique needs of our churches.
 
@@ -36,8 +36,9 @@ No. There are many reasons why someone would consider being a part of one of the
 **How does someone participate?**
 Participation in a Pathways > IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzg3ODg0MCwtMzMwOTA1NTQ2LDE4OD
-Q1NDU0MzAsMTUyMjczMzU0MywtMjExMzg5MzI0NywxMjEyNTYz
-MTYxLC0yMDI3OTExMTk1LC0yMDE1NTg1MDUzLC0xNTcwMDA0OT
-U5LDIwMjYxMzExOSw1NDIyNjg5MywxNjgwNDEyMzQxXX0=
+eyJoaXN0b3J5IjpbLTEwNDY4Nzk2MCwtNzk3ODc4ODQwLC0zMz
+A5MDU1NDYsMTg4NDU0NTQzMCwxNTIyNzMzNTQzLC0yMTEzODkz
+MjQ3LDEyMTI1NjMxNjEsLTIwMjc5MTExOTUsLTIwMTU1ODUwNT
+MsLTE1NzAwMDQ5NTksMjAyNjEzMTE5LDU0MjI2ODkzLDE2ODA0
+MTIzNDFdfQ==
 -->
