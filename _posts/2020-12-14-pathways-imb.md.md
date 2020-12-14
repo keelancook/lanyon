@@ -21,9 +21,9 @@ Cross-cultural disciple-making is a challenging task, and it requires a clear se
 Equipping that transforms a person requires more than a book study or a classroom lecture. Transformation engages the head, heart, and hands. Participants will be engaged in both classroom time and cross-cultural missions locally. Cohort members will work together to implement cross-cultural disciple-making among the many unreached peoples here in Houston. Furthermore, students will develop their own sending support network in their local church to serve as an advocacy and support team for them while they serve overseas. 
 
 ## Applied to the IMB
-The International Mission Board of the Southe
+The International Mission Board (IMB) of the Southern Baptist Convention is one of the largest missions sending agencies in the world. For more than a 175 years, the IMB has worked with Baptist churches across the United States and Canada to send thousands of missionaries and fam
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMjM5MzAsLTIwMjc5MTExOTUsLTIwMT
-U1ODUwNTMsLTE1NzAwMDQ5NTksMjAyNjEzMTE5LDU0MjI2ODkz
-LDE2ODA0MTIzNDFdfQ==
+eyJoaXN0b3J5IjpbMTgyOTAxMDc2NywtMjAyNzkxMTE5NSwtMj
+AxNTU4NTA1MywtMTU3MDAwNDk1OSwyMDI2MTMxMTksNTQyMjY4
+OTMsMTY4MDQxMjM0MV19
 -->
