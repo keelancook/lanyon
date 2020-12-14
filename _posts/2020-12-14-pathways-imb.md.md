@@ -12,9 +12,11 @@ The goal of this cohort is twofold. By combining a robust equipping process for 
 
 ## Equipped to be a Missionary
 
-Missionary sending starts inside the local church. Instead of looking outside of our churches for people to go on our behalf, we want UBA churches to raise up missionaries right from their pews. This is how we multiply gospel laborers, by
+Missionary sending starts inside the local church. Instead of looking outside of our churches for people to go on our behalf, we want UBA churches to raise up missionaries right from their pews. This is how we multiply gospel laborers, by identifying our own members to send to the nations.
+
+Pathways: IMB will 
 
 ## Applied to the IMB
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTgwMTAxNCwxNjgwNDEyMzQxXX0=
+eyJoaXN0b3J5IjpbNTQyMjY4OTMsMTY4MDQxMjM0MV19
 -->
