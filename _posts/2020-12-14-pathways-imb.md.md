@@ -18,11 +18,12 @@ Missionary sending starts inside the local church. Instead of looking outside of
 Cross-cultural disciple-making is a challenging task, and it requires a clear sense of calling, a character that is above reproach, and a specific set of competencies in order to engage in gospel witness across culture and worldview. Over the course of an intense eight months, this cohort will work to develop these three characteristics in the life of the potential sent out one.
 
 ### Transformative Equipping
-Equipping that transforms a person requires more than a book study or a classroom lecture. Participants will be engaged in both classroom time and cross-cultural missions locally. Cohort members will work together to implement cross-cultural disciple-making among the many unreached peoples here in Houston. Furthermore, students will be required to develop a sending support network in their own church to serve as an advocacy and support team for them while they serve overseas. 
+Equipping that transforms a person requires more than a book study or a classroom lecture. Transformation engages the head, heart, and hands. Participants will be engaged in both classroom time and cross-cultural missions locally. Cohort members will work together to implement cross-cultural disciple-making among the many unreached peoples here in Houston. Furthermore, students will develop their own sending support network in their local church to serve as an advocacy and support team for them while they serve overseas. 
 
 ## Applied to the IMB
+The International Mission Board of the Southe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc5MTExOTUsLTIwMTU1ODUwNTMsLT
-E1NzAwMDQ5NTksMjAyNjEzMTE5LDU0MjI2ODkzLDE2ODA0MTIz
-NDFdfQ==
+eyJoaXN0b3J5IjpbNzAxMjM5MzAsLTIwMjc5MTExOTUsLTIwMT
+U1ODUwNTMsLTE1NzAwMDQ5NTksMjAyNjEzMTE5LDU0MjI2ODkz
+LDE2ODA0MTIzNDFdfQ==
 -->
