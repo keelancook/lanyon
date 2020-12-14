@@ -24,8 +24,13 @@ Equipping that transforms a person requires more than a book study or a classroo
 The International Mission Board (IMB) of the Southern Baptist Convention is one of the largest missions sending agencies in the world. For more than a 175 years, the IMB has worked with Baptist churches across the United States and Canada to send thousands of missionaries and families to the nations for the spread of the gospel. Over the course of their tenure, the IMB has developed a robust assessment and application process for the good of the missionary and the wise stewardship of cooperative resources. 
 
 The application process considers each of the above mentioned qualifications: calling, character, and competencies. In addition to these qualifications, the application process examines physical, mental, and emotional health of the potential sent out one. The application process is extensive, and it can take over a year to complete. However, by participating in a Pathways > IMB cohort, a potential missionary from your church can start the process of application alongside their equipping, streamlining the process and ensuring a completed application process. By the end of the cohort, a participant who is applying for the IMB will have completed all of the necessary application steps in order to receive trustee approval for being commissioned through the IMB to the nations.
+
+## Additional Questions
+
+1. Do I have to be applying for the IMB to participate?
+	No. While our desire is that everyone would consider being sent through the IMB to an overseas missionary assignment, we also want to provide a comphrensive 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM4OTMyNDcsMTIxMjU2MzE2MSwtMj
-AyNzkxMTE5NSwtMjAxNTU4NTA1MywtMTU3MDAwNDk1OSwyMDI2
-MTMxMTksNTQyMjY4OTMsMTY4MDQxMjM0MV19
+eyJoaXN0b3J5IjpbMTY4OTAwMDcsLTIxMTM4OTMyNDcsMTIxMj
+U2MzE2MSwtMjAyNzkxMTE5NSwtMjAxNTU4NTA1MywtMTU3MDAw
+NDk1OSwyMDI2MTMxMTksNTQyMjY4OTMsMTY4MDQxMjM0MV19
 -->
