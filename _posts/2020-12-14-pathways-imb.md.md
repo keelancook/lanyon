@@ -1,9 +1,6 @@
-
 ---
 layout: post
-
 title: Pathways: IMB
-
 author: Keelan Cook
 
 ---
@@ -16,5 +13,5 @@ Pathways: IMB is a cooperative equipping cohort facilitated by churches in the U
 
 ## Applied to the IMB
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDQxMjM0MV19
+eyJoaXN0b3J5IjpbLTIwODIxNjYyNjUsMTY4MDQxMjM0MV19
 -->
