@@ -23,9 +23,9 @@ Equipping that transforms a person requires more than a book study or a classroo
 ## Applied to the IMB
 The International Mission Board (IMB) of the Southern Baptist Convention is one of the largest missions sending agencies in the world. For more than a 175 years, the IMB has worked with Baptist churches across the United States and Canada to send thousands of missionaries and families to the nations for the spread of the gospel. Over the course of their tenure, the IMB has developed a robust assessment and application process for the good of the missionary and the wise stewardship of cooperative resources. 
 
-The application process considers each of the above mentioned qualifications: calling, character, and competencies. In addition to these qualifications, the application process examines physical, mental, and emotional health of the potential sent out one. The application process is extensive, and it can take over a year to complete. However, by participating in a Pathways > IMB cohort, a potential missionary from your church can start the process of application alongside their equipping, streamlining the process and ensuring a completed application process. By the end of the cohort, a participant who is applying for the IMB will have completed
+The application process considers each of the above mentioned qualifications: calling, character, and competencies. In addition to these qualifications, the application process examines physical, mental, and emotional health of the potential sent out one. The application process is extensive, and it can take over a year to complete. However, by participating in a Pathways > IMB cohort, a potential missionary from your church can start the process of application alongside their equipping, streamlining the process and ensuring a completed application process. By the end of the cohort, a participant who is applying for the IMB will have completed all of the necessary application steps in order to receive trustee approval for being commissioned through the IMB to the nations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODk2MzIzOCwxMjEyNTYzMTYxLC0yMD
-I3OTExMTk1LC0yMDE1NTg1MDUzLC0xNTcwMDA0OTU5LDIwMjYx
-MzExOSw1NDIyNjg5MywxNjgwNDEyMzQxXX0=
+eyJoaXN0b3J5IjpbLTIxMTM4OTMyNDcsMTIxMjU2MzE2MSwtMj
+AyNzkxMTE5NSwtMjAxNTU4NTA1MywtMTU3MDAwNDk1OSwyMDI2
+MTMxMTksNTQyMjY4OTMsMTY4MDQxMjM0MV19
 -->
