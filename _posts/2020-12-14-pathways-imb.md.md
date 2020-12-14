@@ -5,7 +5,7 @@ author: Keelan Cook
 
 ---
 
-Pathways: IMB is a cooperative equipping cohort facilitated by churches in the Union Baptist Association in partnership with the International Mission Board. The goal of this cohort is twofold. First, we want our network of churches to work together for the cooperative equipping of their own members to be sent to the nations for the sake of the Great Commission. Second, we 
+Pathways: IMB is a cooperative equipping cohort facilitated by churches in the Union Baptist Association in partnership with the International Mission Board. The goal of this cohort is twofold. By combining a robust equipping process for missionary preparation with guided oversight in completing the IMB application, cohort members will both receive necessary training in order to succeed and the missionary task and have accomplished all the s
 
 
 ## Equipped to be a Missionary
@@ -13,5 +13,5 @@ Pathways: IMB is a cooperative equipping cohort facilitated by churches in the U
 
 ## Applied to the IMB
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mzk3NDMxNCwxNjgwNDEyMzQxXX0=
+eyJoaXN0b3J5IjpbMzkyODA4MjM2LDE2ODA0MTIzNDFdfQ==
 -->
