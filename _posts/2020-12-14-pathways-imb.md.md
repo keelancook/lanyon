@@ -27,16 +27,14 @@ The application process considers each of the above mentioned qualifications: ca
 
 ## Additional Questions
 
-1. **Do I have to be applying for the IMB to participate?**
-
+**Do I have to be applying for the IMB to participate?**
 No. There are many reasons why someone would consider being a part of one of these cohorts without planning to serve with the IMB at the present time. While our desire is that everyone would consider being sent through the IMB to an overseas missionary assignment, we also want to provide a comprehensive equipping process for those that are not certain they are called overseas or those who desire to participate in cross-cultural disciple-making here. In the case of someone who wants to be a part of a  Pathways > IMB cohort but does not want to apply to the IMB at that  time, they can simply participate without doing the application portion of the cohort.
 
-2. **How does someone participate?**
-
+**How does someone participate?**
 Participation in a Pathways > IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjczMzU0MywtMjExMzg5MzI0NywxMj
-EyNTYzMTYxLC0yMDI3OTExMTk1LC0yMDE1NTg1MDUzLC0xNTcw
-MDA0OTU5LDIwMjYxMzExOSw1NDIyNjg5MywxNjgwNDEyMzQxXX
-0=
+eyJoaXN0b3J5IjpbMTg4NDU0NTQzMCwxNTIyNzMzNTQzLC0yMT
+EzODkzMjQ3LDEyMTI1NjMxNjEsLTIwMjc5MTExOTUsLTIwMTU1
+ODUwNTMsLTE1NzAwMDQ5NTksMjAyNjEzMTE5LDU0MjI2ODkzLD
+E2ODA0MTIzNDFdfQ==
 -->
