@@ -12,6 +12,8 @@ The [Peoples Next Door](https://keelancook.com) project is an effort to equip lo
 
 [Sending Pathways](https://ubahouston.org/pathways) is a UBA initiative working with local churches to develop intentional systems that lead to multiplicative sending into an array of Great Commission tasks. Churches must work from within their own congregation to identify, equip, send, and support members in activities such as plantind and replanting churches, engaging in disapora missions in their own communities, and sending missionaries internationally.
 
+### 
+
 ### More on the topic:
 * [Moving Past the Rhetoric of Multiplication](https://www.sendinstitute.org/moving-past-the-rhetoric-of-multiplication/)
 
@@ -27,3 +29,6 @@ Revitalization has been a topic for a while, but as the generational turnover an
 * [Using the Fourfold Panorama with Keelan Cook (Podcast)](https://replantbootcamp.com/podcast/ep23/)
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwODU3MjUyMzJdfQ==
+-->
