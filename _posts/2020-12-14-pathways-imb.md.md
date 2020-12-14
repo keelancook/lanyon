@@ -28,9 +28,14 @@ The application process considers each of the above mentioned qualifications: ca
 ## Additional Questions
 
 1. Do I have to be applying for the IMB to participate?
-	No. While our desire is that everyone would consider being sent through the IMB to an overseas missionary assignment, we also want to provide a comphrensive 
+	No. While our desire is that everyone would consider being sent through
+	the IMB to an overseas missionary assignment, we also want to provide a
+	comprehensive equipping process for those that are not certain they are
+	called overseas or those who desire to participate in cross-cultural
+	disciple-making here. In the case of someone who wants to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTAwMDcsLTIxMTM4OTMyNDcsMTIxMj
-U2MzE2MSwtMjAyNzkxMTE5NSwtMjAxNTU4NTA1MywtMTU3MDAw
-NDk1OSwyMDI2MTMxMTksNTQyMjY4OTMsMTY4MDQxMjM0MV19
+eyJoaXN0b3J5IjpbLTU2NzIxOTkyNywtMjExMzg5MzI0NywxMj
+EyNTYzMTYxLC0yMDI3OTExMTk1LC0yMDE1NTg1MDUzLC0xNTcw
+MDA0OTU5LDIwMjYxMzExOSw1NDIyNjg5MywxNjgwNDEyMzQxXX
+0=
 -->
