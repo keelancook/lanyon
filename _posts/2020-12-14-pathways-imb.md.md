@@ -6,8 +6,10 @@ author: Keelan Cook
 
 ---
 
+Pathways: IMB is a cooperative equipping cohort facilitated by churches in the Union Baptist Association in partnership with the International Mission Board. This cohort is designed to 
 
-> Written with [StackEdit](https://stackedit.io/).
+Equiop
+Application Process
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTE2NzM3OF19
+eyJoaXN0b3J5IjpbLTU0NjgxNTY4Ml19
 -->
