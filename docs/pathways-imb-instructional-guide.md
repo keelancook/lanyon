@@ -24,7 +24,10 @@ date: 2020-12-15
 		* Deepen Discipleship
 		* Other missions courese required
 		* Other missions courses suggested
+
+## Introduction
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjcwODczLC0yMTM3NDI3NTUyLC0xNj
-U3OTEzMDEwLC0xMDQ4MTU2MjQ5XX0=
+eyJoaXN0b3J5IjpbMTQ4NDUwNTk1NywtODQ2NzA4NzMsLTIxMz
+c0Mjc1NTIsLTE2NTc5MTMwMTAsLTEwNDgxNTYyNDldfQ==
 -->
