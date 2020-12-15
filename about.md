@@ -2,7 +2,9 @@
 layout: page
 title: About
 ---
-![Family Photo](https://i.imgur.com/5fkSqIP.jpg)
+
+
+![Family Photo](https://i.imgur.com/5fkSqIPNi0ycMU.jpg)
 
 Hey there! You've stumbled upon my personal website. You can find my professional site here: [Peoples Next Door](https://keelancook.com). This site is really just an experiment. I'm attempting to learn more about building my own websites with [Jekyll](https://jekyllrb.com). 
 
@@ -17,6 +19,6 @@ You can find me on a handful or social media platforms:
 
 Thanks for reading!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTgwNzcyLC0zMDk4NTI4NTQsLTE2OT
-E4NzYzNjFdfQ==
+eyJoaXN0b3J5IjpbMjA2MDU3NDIzOSwxODc5ODA3NzIsLTMwOT
+g1Mjg1NCwtMTY5MTg3NjM2MV19
 -->
