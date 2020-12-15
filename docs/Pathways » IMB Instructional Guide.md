@@ -2,9 +2,14 @@
 layout: page
 title: Pathways » IMB: Instructional Guide
 author: Keelan Cook
-date: 
+date: 2020-12-15
 
-> Written with [StackEdit](https://stackedit.io/).
+---
+
+## Things to Include
+* Define the Core Missionary Task
+* Outline CMT
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA3NjQ0NTZdfQ==
+eyJoaXN0b3J5IjpbNzgwMDU1MjAyLC0xODcwNzY0NDU2XX0=
 -->
