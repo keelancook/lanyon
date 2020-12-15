@@ -4,9 +4,9 @@ title: Pathways » IMB
 author: Keelan Cook
 
 ---
-![Pathways > IMB Logo](https://i.imgur.com/aeVVD30.png)
+![Pathways » IMB Logo](https://i.imgur.com/aeVVD30.png)
 
-Pathways: IMB is a cooperative equipping cohort facilitated by churches in the Union Baptist Association in partnership with the International Mission Board (IMB).  Our hope is to streamline the process of onboarding new mnissionaries and simplify the application process for those wanting to go. The IMB has worked hard with our association to create a process that both meets their requirements and allows us the freedom to design a system that meets the unique needs of our churches.
+Pathways » IMB is a cooperative equipping cohort facilitated by churches in the Union Baptist Association in partnership with the International Mission Board (IMB).  Our hope is to streamline the process of onboarding new mnissionaries and simplify the application process for those wanting to go. The IMB has worked hard with our association to create a process that both meets their requirements and allows us the freedom to design a system that meets the unique needs of our churches.
 
 <!--more-->
 
@@ -15,7 +15,7 @@ The goal of this cohort is twofold. By combining a robust equipping process for 
 
 ## Equipped to be a Missionary
 
-Missionary sending starts inside the local church. Instead of looking outside of our churches for people to go on our behalf, we want UBA churches to raise up missionaries right from their pews. This is how we multiply gospel laborers, by identifying our own members to send to the nations. Pathways > IMB will provide a path for your church members from pew to plane in the missionary journey. 
+Missionary sending starts inside the local church. Instead of looking outside of our churches for people to go on our behalf, we want UBA churches to raise up missionaries right from their pews. This is how we multiply gospel laborers, by identifying our own members to send to the nations. Pathways » IMB will provide a path for your church members from pew to plane in the missionary journey. 
 
 ### Character, Calling, and Competencies
 Cross-cultural disciple-making is a challenging task, and it requires a clear sense of calling, a character that is above reproach, and a specific set of competencies in order to engage in gospel witness across culture and worldview. Over the course of an intense eight months, this cohort will work to develop these three characteristics in the life of the potential sent out one.
@@ -28,20 +28,20 @@ Equipping that transforms a person requires more than a book study or a classroo
 ## Applied to the IMB
 The International Mission Board (IMB) of the Southern Baptist Convention is one of the largest missions sending agencies in the world. For more than a 175 years, the IMB has worked with Baptist churches across the United States and Canada to send thousands of missionaries and families to the nations for the spread of the gospel. Over the course of their tenure, the IMB has developed a robust assessment and application process for the good of the missionary and the wise stewardship of cooperative resources. 
 
-The application process considers each of the above mentioned qualifications: calling, character, and competencies. In addition to these qualifications, the application process examines physical, mental, and emotional health of the potential sent out one. The application process is extensive, and it can take over a year to complete. However, by participating in a Pathways > IMB cohort, a potential missionary from your church can start the process of application alongside their equipping, streamlining the process and ensuring a completed application process. By the end of the cohort, a participant who is applying for the IMB will have completed all of the necessary application steps in order to receive trustee approval for being commissioned through the IMB to the nations.
+The application process considers each of the above mentioned qualifications: calling, character, and competencies. In addition to these qualifications, the application process examines physical, mental, and emotional health of the potential sent out one. The application process is extensive, and it can take over a year to complete. However, by participating in a Pathways » IMB cohort, a potential missionary from your church can start the process of application alongside their equipping, streamlining the process and ensuring a completed application process. By the end of the cohort, a participant who is applying for the IMB will have completed all of the necessary application steps in order to receive trustee approval for being commissioned through the IMB to the nations.
 
 ## Additional Questions
 
 **Do I have to be applying for the IMB to participate?**
-No. There are many reasons why someone would consider being a part of one of these cohorts without planning to serve with the IMB at the present time. While our desire is that everyone would consider being sent through the IMB to an overseas missionary assignment, we also want to provide a comprehensive equipping process for those that are not certain they are called overseas or those who desire to participate in cross-cultural disciple-making here. In the case of someone who wants to be a part of a  Pathways > IMB cohort but does not want to apply to the IMB at that  time, they can simply participate without doing the application portion of the cohort.
+No. There are many reasons why someone would consider being a part of one of these cohorts without planning to serve with the IMB at the present time. While our desire is that everyone would consider being sent through the IMB to an overseas missionary assignment, we also want to provide a comprehensive equipping process for those that are not certain they are called overseas or those who desire to participate in cross-cultural disciple-making here. In the case of someone who wants to be a part of a  Pathways » IMB cohort but does not want to apply to the IMB at that  time, they can simply participate without doing the application portion of the cohort.
 
 **How does someone participate?**
-Participation in a Pathways > IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
+Participation in a Pathways » IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgwMjg0MDEsOTE0NzM3MDExLDk5ND
-Q5NzY4NywtNTA4OTEzODM5LDEzMTExODEyMjIsLTc5Nzg3ODg0
-MCwtMzMwOTA1NTQ2LDE4ODQ1NDU0MzAsMTUyMjczMzU0MywtMj
-ExMzg5MzI0NywxMjEyNTYzMTYxLC0yMDI3OTExMTk1LC0yMDE1
-NTg1MDUzLC0xNTcwMDA0OTU5LDIwMjYxMzExOSw1NDIyNjg5My
-wxNjgwNDEyMzQxXX0=
+eyJoaXN0b3J5IjpbLTE4NTAyNjc4MTMsLTE4MTgwMjg0MDEsOT
+E0NzM3MDExLDk5NDQ5NzY4NywtNTA4OTEzODM5LDEzMTExODEy
+MjIsLTc5Nzg3ODg0MCwtMzMwOTA1NTQ2LDE4ODQ1NDU0MzAsMT
+UyMjczMzU0MywtMjExMzg5MzI0NywxMjEyNTYzMTYxLC0yMDI3
+OTExMTk1LC0yMDE1NTg1MDUzLC0xNTcwMDA0OTU5LDIwMjYxMz
+ExOSw1NDIyNjg5MywxNjgwNDEyMzQxXX0=
 -->
