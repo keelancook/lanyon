@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Pathways  IMB: Instructional Guide
+title: Pathways » IMB Instructional Guide
 author: Keelan Cook
 date: 2020-12-15
 
@@ -11,5 +11,5 @@ date: 2020-12-15
 * Outline CMT
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDY1NTAzNl19
+eyJoaXN0b3J5IjpbLTEwNDgxNTYyNDldfQ==
 -->
