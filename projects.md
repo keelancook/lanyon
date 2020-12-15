@@ -14,7 +14,7 @@ The [Peoples Next Door](https://keelancook.com) project is an effort to equip lo
 
 ## Sending Pathways
 
-![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)
+![Pathways » Banner Image](https://i.imgur.com/6Mda6eI.png)
 
 [Sending Pathways](https://ubahouston.org/pathways) is a UBA initiative working with local churches to develop intentional systems that lead to multiplicative sending into an array of Great Commission tasks. Churches must work from within their own congregation to identify, equip, send, and support members in activities such as plantind and replanting churches, engaging in disapora missions in their own communities, and sending missionaries internationally.
 
@@ -41,6 +41,6 @@ Revitalization has been a topic for a while, but as the generational turnover an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMyNTU5ODAsLTc0NjUyMzMwNSwxNz
-k4Mjg0Njc3XX0=
+eyJoaXN0b3J5IjpbMTgwOTYyMzc3LC0xMzAzMjU1OTgwLC03ND
+Y1MjMzMDUsMTc5ODI4NDY3N119
 -->
