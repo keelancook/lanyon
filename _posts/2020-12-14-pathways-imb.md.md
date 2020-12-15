@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pathways > IMB
+title: Pathways >> IMB
 author: Keelan Cook
 
 ---
@@ -36,9 +36,9 @@ No. There are many reasons why someone would consider being a part of one of the
 **How does someone participate?**
 Participation in a Pathways > IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODkxMzgzOSwxMzExMTgxMjIyLC03OT
-c4Nzg4NDAsLTMzMDkwNTU0NiwxODg0NTQ1NDMwLDE1MjI3MzM1
-NDMsLTIxMTM4OTMyNDcsMTIxMjU2MzE2MSwtMjAyNzkxMTE5NS
-wtMjAxNTU4NTA1MywtMTU3MDAwNDk1OSwyMDI2MTMxMTksNTQy
-MjY4OTMsMTY4MDQxMjM0MV19
+eyJoaXN0b3J5IjpbOTk0NDk3Njg3LC01MDg5MTM4MzksMTMxMT
+E4MTIyMiwtNzk3ODc4ODQwLC0zMzA5MDU1NDYsMTg4NDU0NTQz
+MCwxNTIyNzMzNTQzLC0yMTEzODkzMjQ3LDEyMTI1NjMxNjEsLT
+IwMjc5MTExOTUsLTIwMTU1ODUwNTMsLTE1NzAwMDQ5NTksMjAy
+NjEzMTE5LDU0MjI2ODkzLDE2ODA0MTIzNDFdfQ==
 -->
