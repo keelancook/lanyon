@@ -7,6 +7,9 @@ date: 2020-12-15
 ---
 
 ## Things to Include
+* Introduction
+	* Explain goal of training.
+	* Cohort coursework with actual engagement - creates a cylce of learn > do > learn > do
 * Define the Core Missionary Task
 * Outline CMT
 * Develop syllabus for each semester
@@ -16,6 +19,6 @@ date: 2020-12-15
 	* Other missions courese required
 	* Other missions courses suggested
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjI3NTM5NywtMTY1NzkxMzAxMCwtMT
-A0ODE1NjI0OV19
+eyJoaXN0b3J5IjpbLTEzNjg1NDg5MDYsLTE2NTc5MTMwMTAsLT
+EwNDgxNTYyNDldfQ==
 -->
