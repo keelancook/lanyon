@@ -23,7 +23,7 @@ Cross-cultural disciple-making is a challenging task, and it requires a clear se
 ### Transformative Equipping
 Equipping that transforms a person requires more than a book study or a classroom lecture. Transformation engages the head, heart, and hands. Participants will be engaged in both classroom time and cross-cultural missions locally. Cohort members will work together to implement cross-cultural disciple-making among the many unreached peoples here in Houston. Furthermore, students will develop their own sending support network in their local church to serve as an advocacy and support team for them while they serve overseas. 
 
-The cohort will focus equipping on the core missionary task as outlined by the IMB in their [Foundations](https://www.imb.org/wp-content/uploads/2020/03/Foundations-English-v2.pdf) document. You can read more about cohort content and resources 
+The cohort will focus equipping on the core missionary task as outlined by the IMB in their [Foundations](https://www.imb.org/wp-content/uploads/2020/03/Foundations-English-v2.pdf) document. You can read more about cohort content and resources here: [Pathways » IMB 
 
 `Put a link to a page that outline CMT as core of equipping process. Links to Foundations Document and includes link to syllabi pages.`
 
@@ -40,7 +40,7 @@ No. There are many reasons why someone would consider being a part of one of the
 **How does someone participate?**
 Participation in a Pathways » IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDQzNjU1MSwtNDU2MTM1NDMyLDE2ND
+eyJoaXN0b3J5IjpbLTk5ODk0MjkxMiwtNDU2MTM1NDMyLDE2ND
 I0MjU5MTAsLTE4NTAyNjc4MTMsLTE4MTgwMjg0MDEsOTE0NzM3
 MDExLDk5NDQ5NzY4NywtNTA4OTEzODM5LDEzMTExODEyMjIsLT
 c5Nzg3ODg0MCwtMzMwOTA1NTQ2LDE4ODQ1NDU0MzAsMTUyMjcz
