@@ -34,13 +34,13 @@ The application process considers each of the above mentioned qualifications: ca
 
 ## Additional Questions
 
-If you have additional questions concerning the Pathways » IMB cohorts, application to the IMB through this model, or how you or your church can participate in this initiative, you can find answers to those questions on our F
+If you have additional questions concerning the Pathways » IMB cohorts, application to the IMB through this model, or how you or your church can participate in this initiative, you can find answers to those questions on the [Pathways » IMB FAQ](https://keelancook.ml/docs/pathways-imb-faq/) page.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1ODUwMzMxLC0yMjcyNTEzNDMsLTExNz
-A1NzEzNTAsODg2MTU0NjM3LC00NTYxMzU0MzIsMTY0MjQyNTkx
-MCwtMTg1MDI2NzgxMywtMTgxODAyODQwMSw5MTQ3MzcwMTEsOT
-k0NDk3Njg3LC01MDg5MTM4MzksMTMxMTE4MTIyMiwtNzk3ODc4
-ODQwLC0zMzA5MDU1NDYsMTg4NDU0NTQzMCwxNTIyNzMzNTQzLC
-0yMTEzODkzMjQ3LDEyMTI1NjMxNjEsLTIwMjc5MTExOTUsLTIw
-MTU1ODUwNTNdfQ==
+eyJoaXN0b3J5IjpbLTEyOTY4NzA1MTUsLTIyNzI1MTM0MywtMT
+E3MDU3MTM1MCw4ODYxNTQ2MzcsLTQ1NjEzNTQzMiwxNjQyNDI1
+OTEwLC0xODUwMjY3ODEzLC0xODE4MDI4NDAxLDkxNDczNzAxMS
+w5OTQ0OTc2ODcsLTUwODkxMzgzOSwxMzExMTgxMjIyLC03OTc4
+Nzg4NDAsLTMzMDkwNTU0NiwxODg0NTQ1NDMwLDE1MjI3MzM1ND
+MsLTIxMTM4OTMyNDcsMTIxMjU2MzE2MSwtMjAyNzkxMTE5NSwt
+MjAxNTU4NTA1M119
 -->
