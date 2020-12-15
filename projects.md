@@ -30,6 +30,8 @@ The [Peoples Next Door](https://keelancook.com) project is an effort to equip lo
 
 ## Church Renewal
 
+![Renewal Banner Image](https://i.imgur.com/YmOtly9.png)
+
 Revitalization has been a topic for a while, but as the generational turnover and rapid cultural shifts in our nation are occurring, there is a resulting wave of declining churches. The process of replanting steps into that gap. Replanting is often a more radical process than traditional revitalization. It’s the process of relaunching a church with a different identity and structure after a period of intense assessment and reconfiguration. 
 
 ### More on the topic
@@ -39,5 +41,6 @@ Revitalization has been a topic for a while, but as the generational turnover an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjUyMzMwNSwxNzk4Mjg0Njc3XX0=
+eyJoaXN0b3J5IjpbLTEzMDMyNTU5ODAsLTc0NjUyMzMwNSwxNz
+k4Mjg0Njc3XX0=
 -->
