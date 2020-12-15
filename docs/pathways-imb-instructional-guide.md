@@ -18,11 +18,13 @@ date: 2020-12-15
 	* Outline 
 	* Develop syllabus for each semester
 * **Additional Reading List**
-* Potential Links to courses at IMB
-	* Deepen Discipleship
-	* Other missions courese required
-	* Other missions courses suggested
+	* Book List?
+	* Article List?
+	* Potential Links to courses at IMB
+		* Deepen Discipleship
+		* Other missions courese required
+		* Other missions courses suggested
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDc1ODA4LC0yMTM3NDI3NTUyLC0xNj
+eyJoaXN0b3J5IjpbLTg0NjcwODczLC0yMTM3NDI3NTUyLC0xNj
 U3OTEzMDEwLC0xMDQ4MTU2MjQ5XX0=
 -->
