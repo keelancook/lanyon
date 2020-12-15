@@ -23,7 +23,7 @@ Cross-cultural disciple-making is a challenging task, and it requires a clear se
 ### Transformative Equipping
 Equipping that transforms a person requires more than a book study or a classroom lecture. Transformation engages the head, heart, and hands. Participants will be engaged in both classroom time and cross-cultural missions locally. Cohort members will work together to implement cross-cultural disciple-making among the many unreached peoples here in Houston. Furthermore, students will develop their own sending support network in their local church to serve as an advocacy and support team for them while they serve overseas. 
 
-The cohort will focus equipping on the core missionary task as outlined by the IMB in their [Foundations](https://www.imb.org/wp-content/uploads/2020/03/Foundations-English-v2.pdf) document. You can read more about cohort content and resources here: [Pathways » IMB Instructional Guide](https://keelancook.ml).
+The cohort will focus equipping on the core missionary task as outlined by the IMB in their [Foundations](https://www.imb.org/wp-content/uploads/2020/03/Foundations-English-v2.pdf) document. You can read more about cohort content and resources here: [Pathways » IMB Instructional Guide](https://keelancook.ml/docs/pathways-imb-instructional-guide/).
 
 `create instructional guide`
 
@@ -40,11 +40,11 @@ No. There are many reasons why someone would consider being a part of one of the
 **How does someone participate?**
 Participation in a Pathways » IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA1NzEzNTAsODg2MTU0NjM3LC00NT
-YxMzU0MzIsMTY0MjQyNTkxMCwtMTg1MDI2NzgxMywtMTgxODAy
-ODQwMSw5MTQ3MzcwMTEsOTk0NDk3Njg3LC01MDg5MTM4MzksMT
-MxMTE4MTIyMiwtNzk3ODc4ODQwLC0zMzA5MDU1NDYsMTg4NDU0
-NTQzMCwxNTIyNzMzNTQzLC0yMTEzODkzMjQ3LDEyMTI1NjMxNj
-EsLTIwMjc5MTExOTUsLTIwMTU1ODUwNTMsLTE1NzAwMDQ5NTks
-MjAyNjEzMTE5XX0=
+eyJoaXN0b3J5IjpbLTIyNzI1MTM0MywtMTE3MDU3MTM1MCw4OD
+YxNTQ2MzcsLTQ1NjEzNTQzMiwxNjQyNDI1OTEwLC0xODUwMjY3
+ODEzLC0xODE4MDI4NDAxLDkxNDczNzAxMSw5OTQ0OTc2ODcsLT
+UwODkxMzgzOSwxMzExMTgxMjIyLC03OTc4Nzg4NDAsLTMzMDkw
+NTU0NiwxODg0NTQ1NDMwLDE1MjI3MzM1NDMsLTIxMTM4OTMyND
+csMTIxMjU2MzE2MSwtMjAyNzkxMTE5NSwtMjAxNTU4NTA1Mywt
+MTU3MDAwNDk1OV19
 -->
