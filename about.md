@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+
 ---
 
 
@@ -19,6 +20,6 @@ You can find me on a handful or social media platforms:
 
 Thanks for reading!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDU3NDIzOSwxODc5ODA3NzIsLTMwOT
-g1Mjg1NCwtMTY5MTg3NjM2MV19
+eyJoaXN0b3J5IjpbLTE0MDI5MzU0MTEsMjA2MDU3NDIzOSwxOD
+c5ODA3NzIsLTMwOTg1Mjg1NCwtMTY5MTg3NjM2MV19
 -->
