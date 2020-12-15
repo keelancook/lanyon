@@ -1,9 +1,13 @@
 ---
 layout: page
 title: Projects
+
 ---
 
 ## Peoples Next Door
+
+
+
 The [Peoples Next Door](https://keelancook.com) project is an effort to equip local churches, associations, conventions, and others to discover and engage international people groups in North America. On the website, you will find articles and resources for engaging internationals with the gospel as well as the occasional musing on missions, both domestic and overseas.
 
 ---
@@ -33,5 +37,5 @@ Revitalization has been a topic for a while, but as the generational turnover an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjQ1NTEzNF19
+eyJoaXN0b3J5IjpbODI1MjQ5MjJdfQ==
 -->
