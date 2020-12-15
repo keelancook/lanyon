@@ -4,6 +4,7 @@ title: Curriculum Vitae
 
 ---
 
+![CV Title Banner Image](https://i.imgur.com/0xnx6Dc.png)
 
 ## Current
 *Associate Director at [Union Baptist Association](ubahouston.org)*
@@ -81,6 +82,6 @@ Trends (February 19, 2018).
 * “Moving Past Urban Ministry: Rethinking a Popular Definition," Evangelical Missiological Society National Meeting, September 19, 2015, at the Graduate Institue of Applied Linguistics (Dallas, TX).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjIzMzk3MCwxODUxOTc4NzYxLC03MT
-kyNTU4NjFdfQ==
+eyJoaXN0b3J5IjpbLTkxNjY1MTU0NiwtNTQ2MjMzOTcwLDE4NT
+E5Nzg3NjEsLTcxOTI1NTg2MV19
 -->
