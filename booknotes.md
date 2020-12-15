@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book Notes
+title: Book Notes (Coming soon!)
 
 ---
 
@@ -11,6 +11,7 @@ These book notes are an ongoing experiment. I've been blessed to do a great deal
 
 {% include archive.html %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMzQ4ODYsLTQ5MjMzMjUxNiwxNTA1Mj
-gyMzQsMTc0NTk1MTc3MywxNjY2OTI5Nzk1XX0=
+eyJoaXN0b3J5IjpbMTM5ODY3Nzg4MCw1NzIzNDg4NiwtNDkyMz
+MyNTE2LDE1MDUyODIzNCwxNzQ1OTUxNzczLDE2NjY5Mjk3OTVd
+fQ==
 -->
