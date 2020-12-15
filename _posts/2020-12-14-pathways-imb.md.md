@@ -34,17 +34,13 @@ The application process considers each of the above mentioned qualifications: ca
 
 ## Additional Questions
 
-**Do I have to apply for the IMB to participate?**
-No. There are many reasons why someone would consider being a part of one of these cohorts without planning to serve with the IMB at the present time. While our desire is that everyone would consider being sent through the IMB to an overseas missionary assignment, we also want to provide a comprehensive equipping process for those that are not certain they are called overseas or those who desire to participate in cross-cultural disciple-making here. In the case of someone who wants to be a part of a  Pathways » IMB cohort but does not want to apply to the IMB at that  time, they can simply participate without doing the application portion of the cohort.
-
-**How does someone participate?**
-Participation in a Pathways » IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
+If you have additional questions concerning the Pathways » IMB cohorts, application to the IMB through this model, or how you or your church can participate in this initiative, you can find answers to those questions on our F
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzI1MTM0MywtMTE3MDU3MTM1MCw4OD
-YxNTQ2MzcsLTQ1NjEzNTQzMiwxNjQyNDI1OTEwLC0xODUwMjY3
-ODEzLC0xODE4MDI4NDAxLDkxNDczNzAxMSw5OTQ0OTc2ODcsLT
-UwODkxMzgzOSwxMzExMTgxMjIyLC03OTc4Nzg4NDAsLTMzMDkw
-NTU0NiwxODg0NTQ1NDMwLDE1MjI3MzM1NDMsLTIxMTM4OTMyND
-csMTIxMjU2MzE2MSwtMjAyNzkxMTE5NSwtMjAxNTU4NTA1Mywt
-MTU3MDAwNDk1OV19
+eyJoaXN0b3J5IjpbOTE1ODUwMzMxLC0yMjcyNTEzNDMsLTExNz
+A1NzEzNTAsODg2MTU0NjM3LC00NTYxMzU0MzIsMTY0MjQyNTkx
+MCwtMTg1MDI2NzgxMywtMTgxODAyODQwMSw5MTQ3MzcwMTEsOT
+k0NDk3Njg3LC01MDg5MTM4MzksMTMxMTE4MTIyMiwtNzk3ODc4
+ODQwLC0zMzA5MDU1NDYsMTg4NDU0NTQzMCwxNTIyNzMzNTQzLC
+0yMTEzODkzMjQ3LDEyMTI1NjMxNjEsLTIwMjc5MTExOTUsLTIw
+MTU1ODUwNTNdfQ==
 -->
