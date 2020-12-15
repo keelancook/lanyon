@@ -8,6 +8,8 @@ author: Keelan Cook
 
 Pathways: IMB is a cooperative equipping cohort facilitated by churches in the Union Baptist Association in partnership with the International Mission Board (IMB).  Our hope is to streamline the process of onboarding new mnissionaries and simplify the application process for those wanting to go. The IMB has worked hard with our association to create a process that both meets their requirements and allows us the freedom to design a system that meets the unique needs of our churches.
 
+<!--more-->
+
 The goal of this cohort is twofold. By combining a robust equipping process for missionary preparation with guided oversight in completing the IMB application, cohort members will both receive necessary training in order to succeed and the missionary task and have accomplished all the steps necessary for full application to the IMB. In other words, when someone completes this cohort, our hope is that they are both a well-trained missionary and have a completed application packet ready for trustee approval with the IMB.
 
 
@@ -36,9 +38,10 @@ No. There are many reasons why someone would consider being a part of one of the
 **How does someone participate?**
 Participation in a Pathways > IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NDk3Njg3LC01MDg5MTM4MzksMTMxMT
-E4MTIyMiwtNzk3ODc4ODQwLC0zMzA5MDU1NDYsMTg4NDU0NTQz
-MCwxNTIyNzMzNTQzLC0yMTEzODkzMjQ3LDEyMTI1NjMxNjEsLT
-IwMjc5MTExOTUsLTIwMTU1ODUwNTMsLTE1NzAwMDQ5NTksMjAy
-NjEzMTE5LDU0MjI2ODkzLDE2ODA0MTIzNDFdfQ==
+eyJoaXN0b3J5IjpbOTE0NzM3MDExLDk5NDQ5NzY4NywtNTA4OT
+EzODM5LDEzMTExODEyMjIsLTc5Nzg3ODg0MCwtMzMwOTA1NTQ2
+LDE4ODQ1NDU0MzAsMTUyMjczMzU0MywtMjExMzg5MzI0NywxMj
+EyNTYzMTYxLC0yMDI3OTExMTk1LC0yMDE1NTg1MDUzLC0xNTcw
+MDA0OTU5LDIwMjYxMzExOSw1NDIyNjg5MywxNjgwNDEyMzQxXX
+0=
 -->
