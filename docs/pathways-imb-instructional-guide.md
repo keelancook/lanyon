@@ -14,13 +14,15 @@ date: 2020-12-15
 * The Core Missionary Task
 	* Define Core Missionary Task
 	* Outline CMT
-* Develop syllabus for each semester
+* Course Agenda
+	* Outline 
+	* Develop syllabus for each semester
 * Additional Reading List
 * Potential Links to courses at IMB
 	* Deepen Discipleship
 	* Other missions courese required
 	* Other missions courses suggested
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTQzMjk3LC0xNjU3OTEzMDEwLC0xMD
-Q4MTU2MjQ5XX0=
+eyJoaXN0b3J5IjpbLTIxMzc0Mjc1NTIsLTE2NTc5MTMwMTAsLT
+EwNDgxNTYyNDldfQ==
 -->
