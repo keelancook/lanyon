@@ -14,7 +14,8 @@ The [Peoples Next Door](https://keelancook.com) project is an effort to equip lo
 
 ### Project Resouces
 * [Pathways > IMB Explainer](/2020/12/14/pathways-imb.md/)
-* [Instructional Guide](/docs/pathways-imb-instructional
+* [Instructional Guide](/docs/pathways-imb-instructional-guide/)
+* [FAQ Page](/docs/pathways-imb-faq/)
 
 ### More on the topic:
 * [Moving Past the Rhetoric of Multiplication](https://www.sendinstitute.org/moving-past-the-rhetoric-of-multiplication/)
@@ -32,5 +33,5 @@ Revitalization has been a topic for a while, but as the generational turnover an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE0OTQ3MzBdfQ==
+eyJoaXN0b3J5IjpbMTg2MjQ1NTEzNF19
 -->
