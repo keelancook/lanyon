@@ -5,7 +5,7 @@ author: Keelan Cook
 date: 2020-12-15
 
 ---
-If you have additional questions about equipping for international missions through Pathways » IMB, look below for answers to some of our frequently asked questions. If you do not find the ans
+If you have additional questions about equipping for international missions through Pathways » IMB, look below for answers to some of our frequently asked questions. If you do not find your question, you can always contact us directly. We would be happy to speak with you personally and answer any questions you may have. You can [reach us here](mailto:keelan@ubahouston.org).
 
 ## Frequently Asked Questions
 
@@ -15,5 +15,5 @@ No. There are many reasons why someone would consider being a part of one of the
 **How does someone participate?**
 Participation in a Pathways » IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTk4OTY4NSwxOTMwMDc5NjUxXX0=
+eyJoaXN0b3J5IjpbLTkzNTc2NTU2OSwxOTMwMDc5NjUxXX0=
 -->
