@@ -1,13 +1,13 @@
 ---
 layout: doc
-title: Test Page
+title: Pathways » IMB FAQs
 author: Keelan Cook
-tag: theology
+date: 2020-12-15
 
 ---
 
-## Test
+## Questions to Include
 Here is my test page. I hope it works.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTcwNjgyMCw3NDEwNDE4MDJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQ5MzEzMiw3NDEwNDE4MDJdfQ==
 -->
