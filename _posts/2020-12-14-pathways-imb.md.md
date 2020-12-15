@@ -23,7 +23,7 @@ Cross-cultural disciple-making is a challenging task, and it requires a clear se
 ### Transformative Equipping
 Equipping that transforms a person requires more than a book study or a classroom lecture. Transformation engages the head, heart, and hands. Participants will be engaged in both classroom time and cross-cultural missions locally. Cohort members will work together to implement cross-cultural disciple-making among the many unreached peoples here in Houston. Furthermore, students will develop their own sending support network in their local church to serve as an advocacy and support team for them while they serve overseas. 
 
-`Put a link to a page that otl. Include a link to syllabi pages.`
+`Put a link to a page that outline CMT as core of equipping process. Links to Foundations Document and includes link to syllabi pages.`
 
 ## Applied to the IMB
 The International Mission Board (IMB) of the Southern Baptist Convention is one of the largest missions sending agencies in the world. For more than a 175 years, the IMB has worked with Baptist churches across the United States and Canada to send thousands of missionaries and families to the nations for the spread of the gospel. Over the course of their tenure, the IMB has developed a robust assessment and application process for the good of the missionary and the wise stewardship of cooperative resources. 
@@ -38,11 +38,11 @@ No. There are many reasons why someone would consider being a part of one of the
 **How does someone participate?**
 Participation in a Pathways » IMB cohort will take place in conjunction with a your local church. Each potential cohort member will first work with their church leadership to complete an initial self-assessment. This self-assessment will then help church leaders and cohort facilitators work with the potential cohort member to create their own development pathway that includes both the cohort coursework, participation in cross-cultural missions, and a personal growth plan. Those who have completed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI4OTc1NjQsMTY0MjQyNTkxMCwtMT
-g1MDI2NzgxMywtMTgxODAyODQwMSw5MTQ3MzcwMTEsOTk0NDk3
-Njg3LC01MDg5MTM4MzksMTMxMTE4MTIyMiwtNzk3ODc4ODQwLC
-0zMzA5MDU1NDYsMTg4NDU0NTQzMCwxNTIyNzMzNTQzLC0yMTEz
-ODkzMjQ3LDEyMTI1NjMxNjEsLTIwMjc5MTExOTUsLTIwMTU1OD
-UwNTMsLTE1NzAwMDQ5NTksMjAyNjEzMTE5LDU0MjI2ODkzLDE2
-ODA0MTIzNDFdfQ==
+eyJoaXN0b3J5IjpbLTQ1NjEzNTQzMiwxNjQyNDI1OTEwLC0xOD
+UwMjY3ODEzLC0xODE4MDI4NDAxLDkxNDczNzAxMSw5OTQ0OTc2
+ODcsLTUwODkxMzgzOSwxMzExMTgxMjIyLC03OTc4Nzg4NDAsLT
+MzMDkwNTU0NiwxODg0NTQ1NDMwLDE1MjI3MzM1NDMsLTIxMTM4
+OTMyNDcsMTIxMjU2MzE2MSwtMjAyNzkxMTE5NSwtMjAxNTU4NT
+A1MywtMTU3MDAwNDk1OSwyMDI2MTMxMTksNTQyMjY4OTMsMTY4
+MDQxMjM0MV19
 -->
