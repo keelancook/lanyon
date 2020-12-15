@@ -6,13 +6,15 @@ title: Projects
 
 ## Peoples Next Door
 
+![PND Banner Image](https://i.imgur.com/qkWO4qa.png)
+
 The [Peoples Next Door](https://keelancook.com) project is an effort to equip local churches, associations, conventions, and others to discover and engage international people groups in North America. On the website, you will find articles and resources for engaging internationals with the gospel as well as the occasional musing on missions, both domestic and overseas.
 
 ---
 
 ## Sending Pathways
 
-![Pathways » IMB Logo](https://i.imgur.com/aeVVD30.png)
+![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)
 
 [Sending Pathways](https://ubahouston.org/pathways) is a UBA initiative working with local churches to develop intentional systems that lead to multiplicative sending into an array of Great Commission tasks. Churches must work from within their own congregation to identify, equip, send, and support members in activities such as plantind and replanting churches, engaging in disapora missions in their own communities, and sending missionaries internationally.
 
@@ -37,5 +39,5 @@ Revitalization has been a topic for a while, but as the generational turnover an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODI4NDY3N119
+eyJoaXN0b3J5IjpbLTc0NjUyMzMwNSwxNzk4Mjg0Njc3XX0=
 -->
