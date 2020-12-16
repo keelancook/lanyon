@@ -33,6 +33,8 @@ For the gospel to grow to the ends of the earth, someone must take it there. The
 
 This cohort is designed to provide the competencies and spiritual formation necessary to serve faithfully as witnesses to the gospel in a cross-cultural setting among the least reached peoples and places. 
 
+`Transformational discipleship sermon copy here`
+
 ![enter image description here](https://i.imgur.com/Ft2l6cy.png)
 
 
@@ -50,9 +52,10 @@ This cohort is designed to provide the competencies and spiritual formation nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjgyMDU5Miw5NTA2OTQwNDQsNTk3ND
-M5Mzg4LC0xNDMzMjU3NzEwLC0yMDk1NjI2NDA0LDIwOTcyMzM2
-NTUsMTk0MzE5ODEwNywtMTQwOTY0MTM0OCw0NjM5Mjc1NjQsLT
-M3MzQxMDYwLDE0ODQ1MDU5NTcsLTg0NjcwODczLC0yMTM3NDI3
-NTUyLC0xNjU3OTEzMDEwLC0xMDQ4MTU2MjQ5XX0=
+eyJoaXN0b3J5IjpbNDk3NjMzOTc0LC0zMjY4MjA1OTIsOTUwNj
+k0MDQ0LDU5NzQzOTM4OCwtMTQzMzI1NzcxMCwtMjA5NTYyNjQw
+NCwyMDk3MjMzNjU1LDE5NDMxOTgxMDcsLTE0MDk2NDEzNDgsND
+YzOTI3NTY0LC0zNzM0MTA2MCwxNDg0NTA1OTU3LC04NDY3MDg3
+MywtMjEzNzQyNzU1MiwtMTY1NzkxMzAxMCwtMTA0ODE1NjI0OV
+19
 -->
