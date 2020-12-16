@@ -26,9 +26,11 @@ date: 2020-12-15
 		* Other missions courses suggested
 
 ## Introduction
-Cross-cultural missions 
+
+
+## The Core Missionary Task
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODg2OTg1MywxNDg0NTA1OTU3LC04ND
-Y3MDg3MywtMjEzNzQyNzU1MiwtMTY1NzkxMzAxMCwtMTA0ODE1
-NjI0OV19
+eyJoaXN0b3J5IjpbLTM3MzQxMDYwLDE0ODQ1MDU5NTcsLTg0Nj
+cwODczLC0yMTM3NDI3NTUyLC0xNjU3OTEzMDEwLC0xMDQ4MTU2
+MjQ5XX0=
 -->
