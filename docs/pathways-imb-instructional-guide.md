@@ -26,6 +26,7 @@ date: 2020-12-15
 		* Other missions courses suggested
 
 ## Introduction
+The goal of Pathways is the growth of the gospel. In the book of Acts, Luke makes it clear that this was his primary metric of suc
 
 #### Quotes from Foundations
 "the missionary’s commitment to the six elements of the missionary task: entry, evangelism, discipleship, healthy church formation, leadership development, and exit." (Foundations, 14)
@@ -39,7 +40,8 @@ date: 2020-12-15
 
 >In light of the full testimony of Scripture, we believe that the core missionary task has six components: entry, evangelism, disciple-making, healthy church formation, leadership development, and strategically planned exit. Because prayer is central to our strategy, it is not a separate component of the task, but rather is an essential element in every part. (Foundations, 75)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk2NDEzNDgsNDYzOTI3NTY0LC0zNz
-M0MTA2MCwxNDg0NTA1OTU3LC04NDY3MDg3MywtMjEzNzQyNzU1
-MiwtMTY1NzkxMzAxMCwtMTA0ODE1NjI0OV19
+eyJoaXN0b3J5IjpbLTcwNjg5ODAxNywtMTQwOTY0MTM0OCw0Nj
+M5Mjc1NjQsLTM3MzQxMDYwLDE0ODQ1MDU5NTcsLTg0NjcwODcz
+LC0yMTM3NDI3NTUyLC0xNjU3OTEzMDEwLC0xMDQ4MTU2MjQ5XX
+0=
 -->
