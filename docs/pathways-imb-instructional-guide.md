@@ -26,11 +26,11 @@ date: 2020-12-15
 		* Other missions courses suggested
 
 ## Introduction
-
+"the missionary’s commitment to the six elements of the missionary task: entry, evangelism, discipleship, healthy church formation, leadership development, and exit." (Foundations, 14)
 
 ## The Core Missionary Task
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzQxMDYwLDE0ODQ1MDU5NTcsLTg0Nj
-cwODczLC0yMTM3NDI3NTUyLC0xNjU3OTEzMDEwLC0xMDQ4MTU2
-MjQ5XX0=
+eyJoaXN0b3J5IjpbMTYwNTg1NjI3NCwtMzczNDEwNjAsMTQ4ND
+UwNTk1NywtODQ2NzA4NzMsLTIxMzc0Mjc1NTIsLTE2NTc5MTMw
+MTAsLTEwNDgxNTYyNDldfQ==
 -->
