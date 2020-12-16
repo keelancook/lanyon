@@ -26,11 +26,15 @@ date: 2020-12-15
 		* Other missions courses suggested
 
 ## Introduction
+
+#### Quotes from Foundations
 "the missionary’s commitment to the six elements of the missionary task: entry, evangelism, discipleship, healthy church formation, leadership development, and exit." (Foundations, 14)
+
+"The heart of the mission God has given us is to be His witnesses (Acts 1:8), to proclaim repentance and forgiveness of sins in His name (Luke 24:47), and to make disciples of all nations and peoples on earth (Matthew 28:16–20)."
 
 ## The Core Missionary Task
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTg1NjI3NCwtMzczNDEwNjAsMTQ4ND
-UwNTk1NywtODQ2NzA4NzMsLTIxMzc0Mjc1NTIsLTE2NTc5MTMw
-MTAsLTEwNDgxNTYyNDldfQ==
+eyJoaXN0b3J5IjpbLTIwODg1MDMyODQsLTM3MzQxMDYwLDE0OD
+Q1MDU5NTcsLTg0NjcwODczLC0yMTM3NDI3NTUyLC0xNjU3OTEz
+MDEwLC0xMDQ4MTU2MjQ5XX0=
 -->
