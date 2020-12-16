@@ -3,6 +3,7 @@ layout: doc
 title: Pathways » IMB Instructional Guide
 author: Keelan Cook
 date: 2020-12-15
+toc: true
 
 ---
 
@@ -52,10 +53,10 @@ This cohort is designed to provide the competencies and spiritual formation nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NjMzOTc0LC0zMjY4MjA1OTIsOTUwNj
-k0MDQ0LDU5NzQzOTM4OCwtMTQzMzI1NzcxMCwtMjA5NTYyNjQw
-NCwyMDk3MjMzNjU1LDE5NDMxOTgxMDcsLTE0MDk2NDEzNDgsND
-YzOTI3NTY0LC0zNzM0MTA2MCwxNDg0NTA1OTU3LC04NDY3MDg3
-MywtMjEzNzQyNzU1MiwtMTY1NzkxMzAxMCwtMTA0ODE1NjI0OV
-19
+eyJoaXN0b3J5IjpbLTEyMjQ3ODQ0ODAsNDk3NjMzOTc0LC0zMj
+Y4MjA1OTIsOTUwNjk0MDQ0LDU5NzQzOTM4OCwtMTQzMzI1Nzcx
+MCwtMjA5NTYyNjQwNCwyMDk3MjMzNjU1LDE5NDMxOTgxMDcsLT
+E0MDk2NDEzNDgsNDYzOTI3NTY0LC0zNzM0MTA2MCwxNDg0NTA1
+OTU3LC04NDY3MDg3MywtMjEzNzQyNzU1MiwtMTY1NzkxMzAxMC
+wtMTA0ODE1NjI0OV19
 -->
