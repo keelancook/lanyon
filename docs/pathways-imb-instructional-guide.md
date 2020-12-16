@@ -33,6 +33,9 @@ For the gospel to grow to the ends of the earth, someone must take it there. The
 
 This cohort is designed to provide the competencies and spiritual formation necessary to serve faithfully as witnesses to the gospel in a cross-cultural setting among the least reached peoples and places. 
 
+![enter image description here](https://i.imgur.com/Ybrpec5.png)
+
+
 #### Quotes from Foundations
 "the missionary’s commitment to the six elements of the missionary task: entry, evangelism, discipleship, healthy church formation, leadership development, and exit." (Foundations, 14)
 
@@ -44,8 +47,9 @@ This cohort is designed to provide the competencies and spiritual formation nece
 
 >In light of the full testimony of Scripture, we believe that the core missionary task has six components: entry, evangelism, disciple-making, healthy church formation, leadership development, and strategically planned exit. Because prayer is central to our strategy, it is not a separate component of the task, but rather is an essential element in every part. (Foundations, 75)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU2MjY0MDQsMjA5NzIzMzY1NSwxOT
-QzMTk4MTA3LC0xNDA5NjQxMzQ4LDQ2MzkyNzU2NCwtMzczNDEw
-NjAsMTQ4NDUwNTk1NywtODQ2NzA4NzMsLTIxMzc0Mjc1NTIsLT
-E2NTc5MTMwMTAsLTEwNDgxNTYyNDldfQ==
+eyJoaXN0b3J5IjpbLTE0MzMyNTc3MTAsLTIwOTU2MjY0MDQsMj
+A5NzIzMzY1NSwxOTQzMTk4MTA3LC0xNDA5NjQxMzQ4LDQ2Mzky
+NzU2NCwtMzczNDEwNjAsMTQ4NDUwNTk1NywtODQ2NzA4NzMsLT
+IxMzc0Mjc1NTIsLTE2NTc5MTMwMTAsLTEwNDgxNTYyNDldfQ==
+
 -->
