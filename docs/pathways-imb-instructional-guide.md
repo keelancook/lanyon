@@ -11,7 +11,7 @@ date: 2020-12-15
 	* Explain goal of training.
 	* Cohort coursework with actual engagement - creates a cylce of learn > do > learn > do (Maybe link to my post on Kolb's cycle)
 	* We accomplish this by focusing on the Core Missionary Task as outlined by the IMB
-* **The Core Missionary Tas**k
+* **The Core Missionary Task**
 	* Define Core Missionary Task
 	* Outline CMT
 * **Course Agenda**
@@ -28,7 +28,7 @@ date: 2020-12-15
 ## Introduction
 Cross-cultural missions 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNDQ2MjM3LDE0ODQ1MDU5NTcsLTg0Nj
-cwODczLC0yMTM3NDI3NTUyLC0xNjU3OTEzMDEwLC0xMDQ4MTU2
-MjQ5XX0=
+eyJoaXN0b3J5IjpbMTg1ODg2OTg1MywxNDg0NTA1OTU3LC04ND
+Y3MDg3MywtMjEzNzQyNzU1MiwtMTY1NzkxMzAxMCwtMTA0ODE1
+NjI0OV19
 -->
