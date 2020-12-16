@@ -26,8 +26,9 @@ date: 2020-12-15
 		* Other missions courses suggested
 
 ## Introduction
-
+Cross-cultural missions 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDUwNTk1NywtODQ2NzA4NzMsLTIxMz
-c0Mjc1NTIsLTE2NTc5MTMwMTAsLTEwNDgxNTYyNDldfQ==
+eyJoaXN0b3J5IjpbOTQyNDQ2MjM3LDE0ODQ1MDU5NTcsLTg0Nj
+cwODczLC0yMTM3NDI3NTUyLC0xNjU3OTEzMDEwLC0xMDQ4MTU2
+MjQ5XX0=
 -->
