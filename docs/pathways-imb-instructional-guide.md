@@ -33,7 +33,7 @@ For the gospel to grow to the ends of the earth, someone must take it there. The
 
 This cohort is designed to provide the competencies and spiritual formation necessary to serve faithfully as witnesses to the gospel in a cross-cultural setting among the least reached peoples and places. 
 
-![enter image description here](https://i.imgur.com/MDye432.png)
+![enter image description here](https://i.imgur.com/Ft2l6cy.png)
 
 
 #### Quotes from Foundations
@@ -50,9 +50,9 @@ This cohort is designed to provide the competencies and spiritual formation nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNjk0MDQ0LDU5NzQzOTM4OCwtMTQzMz
-I1NzcxMCwtMjA5NTYyNjQwNCwyMDk3MjMzNjU1LDE5NDMxOTgx
-MDcsLTE0MDk2NDEzNDgsNDYzOTI3NTY0LC0zNzM0MTA2MCwxND
-g0NTA1OTU3LC04NDY3MDg3MywtMjEzNzQyNzU1MiwtMTY1Nzkx
-MzAxMCwtMTA0ODE1NjI0OV19
+eyJoaXN0b3J5IjpbLTMyNjgyMDU5Miw5NTA2OTQwNDQsNTk3ND
+M5Mzg4LC0xNDMzMjU3NzEwLC0yMDk1NjI2NDA0LDIwOTcyMzM2
+NTUsMTk0MzE5ODEwNywtMTQwOTY0MTM0OCw0NjM5Mjc1NjQsLT
+M3MzQxMDYwLDE0ODQ1MDU5NTcsLTg0NjcwODczLC0yMTM3NDI3
+NTUyLC0xNjU3OTEzMDEwLC0xMDQ4MTU2MjQ5XX0=
 -->
