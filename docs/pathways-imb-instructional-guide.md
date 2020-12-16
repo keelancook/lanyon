@@ -29,7 +29,7 @@ date: 2020-12-15
 The goal of Pathways is the growth of the gospel. In the book of Acts, Luke makes it clear that this was his primary metric of success. Repeatedly, he references the spread of the gospel and the manner in which the Word increased and multiplied (Acts FIND REFERENCES). 
 
 For the gospel to grow to the ends of the earth, someone must take it there. The IMB's Foundations document states it this way: 
-
+>The heart of the mission God has given us is to be His witnesses (Acts 1:8), to proclaim repentance and forgiveness of sins in His name (Luke 24:47), and to make disciples of all nations and peoples on earth (Matthew 28:16–20). (Foundations, 23)
 
 #### Quotes from Foundations
 "the missionary’s commitment to the six elements of the missionary task: entry, evangelism, discipleship, healthy church formation, leadership development, and exit." (Foundations, 14)
@@ -42,7 +42,7 @@ For the gospel to grow to the ends of the earth, someone must take it there. The
 
 >In light of the full testimony of Scripture, we believe that the core missionary task has six components: entry, evangelism, disciple-making, healthy church formation, leadership development, and strategically planned exit. Because prayer is central to our strategy, it is not a separate component of the task, but rather is an essential element in every part. (Foundations, 75)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDE1ODgyMCwtMTQwOTY0MTM0OCw0Nj
+eyJoaXN0b3J5IjpbMTk0MzE5ODEwNywtMTQwOTY0MTM0OCw0Nj
 M5Mjc1NjQsLTM3MzQxMDYwLDE0ODQ1MDU5NTcsLTg0NjcwODcz
 LC0yMTM3NDI3NTUyLC0xNjU3OTEzMDEwLC0xMDQ4MTU2MjQ5XX
 0=
