@@ -46,10 +46,13 @@ This cohort is designed to provide the competencies and spiritual formation nece
 ![Core Missionary Task Diagram](https://i.imgur.com/JytpIwC.png)
 
 >In light of the full testimony of Scripture, we believe that the core missionary task has six components: entry, evangelism, disciple-making, healthy church formation, leadership development, and strategically planned exit. Because prayer is central to our strategy, it is not a separate component of the task, but rather is an essential element in every part. (Foundations, 75)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMyNTc3MTAsLTIwOTU2MjY0MDQsMj
-A5NzIzMzY1NSwxOTQzMTk4MTA3LC0xNDA5NjQxMzQ4LDQ2Mzky
-NzU2NCwtMzczNDEwNjAsMTQ4NDUwNTk1NywtODQ2NzA4NzMsLT
-IxMzc0Mjc1NTIsLTE2NTc5MTMwMTAsLTEwNDgxNTYyNDldfQ==
 
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTk3NDM5Mzg4LC0xNDMzMjU3NzEwLC0yMD
+k1NjI2NDA0LDIwOTcyMzM2NTUsMTk0MzE5ODEwNywtMTQwOTY0
+MTM0OCw0NjM5Mjc1NjQsLTM3MzQxMDYwLDE0ODQ1MDU5NTcsLT
+g0NjcwODczLC0yMTM3NDI3NTUyLC0xNjU3OTEzMDEwLC0xMDQ4
+MTU2MjQ5XX0=
 -->
