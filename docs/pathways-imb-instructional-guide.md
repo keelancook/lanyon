@@ -73,7 +73,7 @@ Semester 2 shifts to the focus toward communal discple-making. In this semester,
 ## Additional Reading
 If you're interested in further resources on missionary sending or the Pathways cohort process, check out the additional reading lists below to see books, courses, and other content for missionary development. 
 
-* [Books & Articles](/docs/pathways-book-list.md/)
+* [Books & Articles](/docs/pathways-book-list/)
 * [Online Videos & Courses](http://VIDEOS-COURSES-LIST)
 
 ---
