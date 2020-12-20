@@ -7,6 +7,9 @@ date: 2020-12-15
 ---
 
 ![Pathways IMB Banner](https://i.imgur.com/aeVVD30.png)
+
+Testing a change in my document.
+
 ## Introduction
 The goal of Pathways is the growth of the gospel. In the book of Acts, Luke makes it clear that this was his primary metric of success. Repeatedly, he references the spread of the gospel and the manner in which the Word increased and multiplied (Acts FIND REFERENCES). 
 
