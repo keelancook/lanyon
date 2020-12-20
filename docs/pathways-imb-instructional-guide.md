@@ -45,6 +45,7 @@ Likewise, missionaries do not do their work alone. The book of Acts provides a c
 
 
 ### Course Agenda
+Here, I am making changes.
 
 ## Things to Include
 * **Course Agenda**
