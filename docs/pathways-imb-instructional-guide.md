@@ -69,7 +69,7 @@ Semester 2 shifts to the focus toward communal discple-making. In this semester,
 `Develop syllabus for each semester`
 
 ## Additional Reading
-If you're interested in further resources on missionary sending or the Pathways cohort process, check out the additional reading lists below to 
+If you're interested in further resources on missionary sending or the Pathways cohort process, check out the additional reading lists below to see books, courses, and other content for missionary development.
 
 
 ---
