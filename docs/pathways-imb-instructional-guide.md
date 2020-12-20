@@ -6,18 +6,7 @@ date: 2020-12-15
 
 ---
 
-## Things to Include
-* **Course Agenda**
-	* Outline 
-	* Develop syllabus for each semester
-* **Additional Reading List**
-	* Book List?
-	* Article List?
-	* Potential Links to courses at IMB
-		* Deepen Discipleship
-		* Other missions courese required
-		* Other missions courses suggested
-
+![Pathways IMB Banner](https://i.imgur.com/aeVVD30.png)
 ## Introduction
 The goal of Pathways is the growth of the gospel. In the book of Acts, Luke makes it clear that this was his primary metric of success. Repeatedly, he references the spread of the gospel and the manner in which the Word increased and multiplied (Acts FIND REFERENCES). 
 
@@ -56,12 +45,23 @@ Likewise, missionaries do not do their work alone. The book of Acts provides a c
 
 ### Course Agenda
 
+## Things to Include
+* **Course Agenda**
+	* Outline 
+	* Develop syllabus for each semester
+* **Additional Reading List**
+	* Book List?
+	* Article List?
+	* Potential Links to courses at IMB
+		* Deepen Discipleship
+		* Other missions courese required
+		* Other missions courses suggested
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA0NjAxMDMsLTE5MTI0OTMzNjUsLT
-E5OTU5Nzg4NjcsLTEyMjQ3ODQ0ODAsNDk3NjMzOTc0LC0zMjY4
-MjA1OTIsOTUwNjk0MDQ0LDU5NzQzOTM4OCwtMTQzMzI1NzcxMC
-wtMjA5NTYyNjQwNCwyMDk3MjMzNjU1LDE5NDMxOTgxMDcsLTE0
-MDk2NDEzNDgsNDYzOTI3NTY0LC0zNzM0MTA2MCwxNDg0NTA1OT
-U3LC04NDY3MDg3MywtMjEzNzQyNzU1MiwtMTY1NzkxMzAxMCwt
-MTA0ODE1NjI0OV19
+eyJoaXN0b3J5IjpbLTg0NTYzNDU5NiwtMTAzMDQ2MDEwMywtMT
+kxMjQ5MzM2NSwtMTk5NTk3ODg2NywtMTIyNDc4NDQ4MCw0OTc2
+MzM5NzQsLTMyNjgyMDU5Miw5NTA2OTQwNDQsNTk3NDM5Mzg4LC
+0xNDMzMjU3NzEwLC0yMDk1NjI2NDA0LDIwOTcyMzM2NTUsMTk0
+MzE5ODEwNywtMTQwOTY0MTM0OCw0NjM5Mjc1NjQsLTM3MzQxMD
+YwLDE0ODQ1MDU5NTcsLTg0NjcwODczLC0yMTM3NDI3NTUyLC0x
+NjU3OTEzMDEwXX0=
 -->
