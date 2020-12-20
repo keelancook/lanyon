@@ -69,18 +69,12 @@ Semester 2 shifts to the focus toward communal discple-making. In this semester,
 `Develop syllabus for each semester`
 
 ## Additional Reading
-If you're interested in further resources on missionary sending or the Pathways cohort process, check out the additional reading lists below to see books, courses, and other content for missionary development.
+If you're interested in further resources on missionary sending or the Pathways cohort process, check out the additional reading lists below to see books, courses, and other content for missionary development. 
 
+* [Books & Articles](/docs/pathways-book-list.md)
+* [Online Videos & Courses](http://VIDEOS-COURSES-LIST)
 
 ---
-## Things to Include
-* **Additional Reading List**
-	* Book List?
-	* Article List?
-	* Potential Links to courses at IMB
-		* Deepen Discipleship
-		* Other missions courese required
-		* Other missions courses suggested
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg0NTYzNDU5NiwtMTAzMDQ2MDEwMywtMT
 kxMjQ5MzM2NSwtMTk5NTk3ODg2NywtMTIyNDc4NDQ4MCw0OTc2
