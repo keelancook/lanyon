@@ -20,7 +20,7 @@ In the 1950s, an educational theorist named Benjamin Bloom proposed a significan
 
 Transformative learning, the kind that changes a person, happens when all three of these domains are included in the learning process.
 
-![enter image description here](https://i.imgur.com/Ft2l6cy.png)
+![Learning Domains](https://i.imgur.com/Ft2l6cy.png)
 
 At its best, discipleship is transformative learning. It's the kind of learning that changes someone's life. Jesus was the master discipler, he engaged the head, heart, and hands of his followers in a way that transformed them into fully-formed disciples sent as witnesses.
 
