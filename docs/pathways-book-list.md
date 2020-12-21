@@ -6,10 +6,6 @@ date: 2020-12-20
 
 ---
 
-# Pathways » Supplemental Reading List
-`Does this need an explainer paragraph?`
-
----
 
 ## Books
 
