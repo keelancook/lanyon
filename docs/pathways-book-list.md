@@ -74,3 +74,6 @@ date: 2020-12-20
 * [Two Lost Aspects of Discipleship](https://keelancook.com/2016/11/28/two-lost-aspects-of-discipleship/) by Keelan Cook
 * [The Discipleship Spiral: Doing to learn, and learning to do.](https://keelancook.com/2016/09/12/the-discipleship-spiral-doing-to-learn-and-learning-to-do/) by Keelan Cook
 * [How Do You Measure Discipleship?](https://keelancook.com/2017/03/06/how-do-you-measure-discipleship/) by Keelan Cook
+
+### Cross-cultural Missions
+???
