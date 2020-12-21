@@ -25,7 +25,6 @@ Equipping that transforms a person requires more than a book study or a classroo
 
 The cohort will focus equipping on the core missionary task as outlined by the IMB in their [Foundations](https://www.imb.org/wp-content/uploads/2020/03/Foundations-English-v2.pdf) document. You can read more about cohort content and resources here: [Pathways » IMB Instructional Guide](/docs/pathways-imb-instructional-guide/).
 
-`create instructional guide`
 
 ## Applied to the IMB
 The International Mission Board (IMB) of the Southern Baptist Convention is one of the largest missions sending agencies in the world. For more than a 175 years, the IMB has worked with Baptist churches across the United States and Canada to send thousands of missionaries and families to the nations for the spread of the gospel. Over the course of their tenure, the IMB has developed a robust assessment and application process for the good of the missionary and the wise stewardship of cooperative resources. 
