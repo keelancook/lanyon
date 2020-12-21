@@ -59,3 +59,22 @@ date: 2020-12-20
 ---
 
 ## Articles
+
+### Creating a Sending Culture in Your Church
+* [Less Talk, More Action: Moving Past the Rhetoric of Multiplication](https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication) by Keelan Cook
+* [Developing a Standard for Missionary Sending: What does a Cross-cultural Missionary Look Like?](https://www.theupstreamcollective.org/blog/what-does-a-cross-cultural-missionary-look-like) by Nathan Sloan
+* [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/) by William Whaley
+
+### Evangelism
+* [Evangelism? That's Just Not My Gift](https://www.theupstreamcollective.org/blog/evangelism-not-my-gift) by D. Scott Hildreth
+* [How to Share the Gospel: A Quick Word on Narratives and Themes](https://keelancook.com/2016/08/22/how-to-share-the-gospel-a-quick-word-on-narratives-and-themes/) by Keelan Cook
+* [Evangelism is Sharing an Experience, Not Closing a Deal](https://lifewayvoices.com/discipleship-evangelism/evangelism-is-sharing-an-experience-not-closing-a-deal/) by D. Scott Hildreth
+* [A Warning Concerning Religious Categories](https://keelancook.com/2016/12/05/a-warning-concerning-religious-categories/) by Keelan Cook
+* [How to Ask Someone About Their Religion (And Actually Discover What They Really Believe)](https://keelancook.com/2016/04/22/how-to-ask-someone-about-their-religion-and-actually-discover-what-they-really-believe/) by Keelan Cook
+
+### Discipleship
+* [Is Our Understanding of Discipleship Anemic?](https://keelancook.com/2016/08/05/is-our-understanding-of-discipleship-anemic/) by Keelan Cook
+* [Discipleship is Being on Mission and Taking Others With You](https://keelancook.com/2016/08/15/discipleship-is-being-on-mission-and-taking-others-with-you/) by Keelan Cook
+* [Two Lost Aspects of Discipleship](https://keelancook.com/2016/11/28/two-lost-aspects-of-discipleship/) by Keelan Cook
+* [The Discipleship Spiral: Doing to learn, and learning to do.](https://keelancook.com/2016/09/12/the-discipleship-spiral-doing-to-learn-and-learning-to-do/) by Keelan Cook
+* [How Do You Measure Discipleship?](https://keelancook.com/2017/03/06/how-do-you-measure-discipleship/) by Keelan Cook
