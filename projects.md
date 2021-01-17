@@ -4,6 +4,15 @@ title: Projects
 
 ---
 
+## My Commonplace Book
+
+![Commonplace Banner Image](https://i.imgur.com/BzZOtqw.png)
+
+The commonplace book has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers in general carried what ammounts to a scrapbook that they used to compile all of their notes.
+
+Primarily, the notes in [my commonplace book](https://commonplace.ml) will deal with topics or theology and ministry. My hope is that by thinking in public, instead of keeping these notes closed up, my thoughts here will benefit others. And perhaps, these thoughts will be sharpened that was as well.
+
+---
 ## Peoples Next Door
 
 ![PND Banner Image](https://i.imgur.com/qkWO4qa.png)
