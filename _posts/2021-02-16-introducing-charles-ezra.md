@@ -15,7 +15,7 @@ The Cook family has some big news to share! We want to announce to you Charles E
 ## The Details:
 * *Date and Time:* February 16, 2021 at 12:31 pm
 * *Weight:* 9 lbs. 06 oz.
-* *Height:* 21.?? in.
+* *Height:* 21.?? in. `Fix length.`
 
 ---
 
