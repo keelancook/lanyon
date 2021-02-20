@@ -24,7 +24,9 @@ This week was certainly an interesting time to deliver a child. Of course, prese
 
 We live in Houston. Houston was [in the news](NEWS-SITE-HERE.com) quite a bit this past week due to inclement weather. Now, we're used to bad weather in Houston; we have a reputation for it. However, this was not our typical bout with mother nature. Instead of a hurricane, Houston suffered through something for which it is completely unprepared: an ice storm. You can douse Houston with enough water to fill one of the Great Lakes, and we'll rise to the challenge. However, if you sprinkle an inch of ice onto the city, you might as well uproot the city and toss it into the Artic Ocean.
 
-<div style="text-align:center"><img src="https://i.imgur.com/haFu0vq.jpg" /></div>
+<p align="center">
+  <img src="https://i.imgur.com/haFu0vq.jpg" />
+</p>
 
 I'll spare you the details, but along with the rest of Texas, Houston spent the better part of the week in temperatures significatly lower than freezing. Rain turned to ice, hail, and even snow. It crippled a city (and state) infrastucure not built to handle anything less than balmy. Rolling power outages, loss of water, and subequent boil notices insued.
 
