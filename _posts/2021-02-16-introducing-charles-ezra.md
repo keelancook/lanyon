@@ -10,6 +10,8 @@ created: 2021-02-19
 
 The Cook family has some big news to share! We want to announce to you Charles Ezra Cook, our second child and first son. We are presently on day three and mug 24 of coffee, but thankful to God for our newest addition to the family.
 
+<!--more-->
+
 ## The Details:
 * *Date and Time:* February 16, 2021 at 12:31 pm
 * *Weight:* 9 lbs. 06 oz.
