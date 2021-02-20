@@ -32,7 +32,7 @@ Ezra was born early afternoon of that day, and we spent the next two nights at t
 
 ---
 ## The Questions
-1. **Did you know the gender?** No, we did not find out for Nora and loved the surprise, so we decided to the do same with Ezra. We didn't know he was a boy until shortly before you did.
+1. **Did you know the gender?** No. We did not find out for Nora and loved the surprise, so we decided to the do same with Ezra. We didn't know he was a boy until shortly before you did.
 2. **How did you pick the name?** *Charles* is a family name. My full name is Charles Keelan Cook, my father's is Charles Robert Cook. We wanted to continue this tradition with our first male child, if we had one. After considering the middle name *Danger*, we landed on *Ezra* instead. For those familiar with the Christian Scriptures, *Ezra* was a scribe and priest in the Old Testament. `Add more about Ezra and why we chose that biblical name.`
 3. **Any questions concerning details of procedure?** `Do we want to discuss that it was a c section?`
 4. 
