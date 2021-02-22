@@ -31,7 +31,7 @@ I'll spare you the details, but along with the rest of Texas, Houston spent the 
 
 Ezra had a scheduled delivery at the height of snowmageddon. We booked a hotel near the hospital so we could still deliver the next day if the roads stayed impassible, only to get turned away from the hotel that day as the power grid failed. We lost power at our house that night. We left for the hospital again on February 16 (the exact day we moved to Houston four years ago) as Nora and the grandparents spent the next 24 hours with no power or water at our house in 15 degree weather. 
 
-Ezra was born early afternoon of that day, and we spent the next two nights at the hospital. We emerged again with healthy baby, healthy momma, and full hearts. We're still boiling water.
+Ezra was born early afternoon of that day, and we spent the next two nights at the hospital. We emerged again with healthy baby, healthy momma, and full hearts. We can even use our water again without boiling.
 
 ---
 ## The Questions
@@ -43,6 +43,4 @@ Ezra was born early afternoon of that day, and we spent the next two nights at t
 ## The Pictures
 Finally, what birth announcement would be complete without some cute pictures? Enjoy!
 
-`update collage to pics of Ezra`
-
-![Ezra Birth Collage](https://i.imgur.com/MgSc7bE.png)
+![Ezra Birth Collage](https://i.imgur.com/5SupySr.png)
