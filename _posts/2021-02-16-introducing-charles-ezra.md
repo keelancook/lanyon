@@ -37,6 +37,8 @@ In all seriousness, we are extremely grateful to God for sustaining us and our f
 2. **How did you pick the name?** *Charles* is a family name. My full name is Charles Keelan Cook, my father's is Charles Robert Cook. We wanted to continue this tradition with our first male child, if we had one. After considering the middle name *Danger*, we landed on *Ezra* instead. For those familiar with the Christian Scriptures, *Ezra* was a scribe and priest in the Old Testament. `Add more about Ezra and why we chose that biblical name.`
 3. **How is Nora adjusting to being a big sister?** Nora seems to waffle between loving the new baby and being largely disinterested. She has been enjoying the attention of both sets of grandparents, which has made the immediate transition easier for her. We are sure there will be some growing pains over the next few weeks but she's doing great so far!
 
+---
+
 
 ## The Pictures
 Finally, what birth announcement would be complete without some cute pictures? Enjoy!
