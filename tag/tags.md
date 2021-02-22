@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: 
 title: Tags
 
 ---
 
-<!-- Move this back out of the tags folder to use as a tags index.-->
+<!-- Move this back out of the tags folder and add "page" as the layout type in front matter to use as a tags index.-->
 
 > **Work in Progress:**
 > I'm still working to build out the tags section. At some point, I plan to index material on this site with the use of tags, but I'll have to get some content on here first! I am really excited about providing this, though, so check back soon and hopefully this will be functional!
