@@ -33,9 +33,19 @@ In all seriousness, we are extremely grateful to God for sustaining us and our f
 
 ---
 ## The Questions
-1. **Did you know the gender?** No. We did not find out for Nora and loved the surprise, so we decided to the do same with Ezra. We didn't know he was a boy until shortly before you did.
-2. **How did you pick the name?** *Charles* is a family name. My full name is Charles Keelan Cook, my father's is Charles Robert Cook. We wanted to continue this tradition with our first male child, if we had one. After considering the middle name *Danger*, we landed on *Ezra* instead. For those familiar with the Christian Scriptures, *Ezra* was a scribe and priest in the Old Testament. `Add more about Ezra and why we chose that biblical name.`
-3. **How is Nora adjusting to being a big sister?** Nora seems to waffle between loving the new baby and being largely disinterested. She has been enjoying the attention of both sets of grandparents, which has made the immediate transition easier for her. We are sure there will be some growing pains over the next few weeks but she's doing great so far!
+
+### Did you know the gender? 
+No. We did not find out for Nora and loved the surprise, so we decided to the do same with Ezra. We didn't know he was a boy until shortly before you did.
+
+### How did you pick the name?
+*Charles* is a family name. My full name is Charles Keelan Cook, my father's is Charles Robert Cook. We wanted to continue this tradition with our first male child, if we had one. After considering the middle name *Danger*, we landed on *Ezra* instead. For those familiar with the Christian Scriptures, *Ezra* was a scribe and priest in the Old Testament who oversaw the revival of worship in Jerusalem after the Babylonian exile. The Old Testament book that bears his name makes this simple statement:
+
+>Now Ezra had determined in his heart to study the law of the Lord, obey it, and teach its statutes and ordinances in Israel. ~ Ezra 7:10
+
+We pray this is true of our Ezra as well, regardless of his chosen profession. We pray he too will call others to worship the one true God and kindle revival in the hearts of God's people through a love for His word. 
+
+### How is Nora adjusting to being a big sister? 
+Nora seems to waffle between loving the new baby and being largely disinterested. She has been enjoying the attention of both sets of grandparents, which has made the immediate transition easier for her. We are sure there will be some growing pains over the next few weeks but she's doing great so far!
 
 ---
 
