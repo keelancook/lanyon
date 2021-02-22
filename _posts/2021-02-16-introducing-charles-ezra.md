@@ -7,7 +7,7 @@ created: 2021-02-19
 
 ![Ezra Birth Banner](https://i.imgur.com/DKEyjTb.png)
 
-The Cook family has some big news to share! We want to announce to you Charles Ezra Cook, our second child and first son. We are presently on day three and mug 24 of coffee, but thankful to God for our newest addition to the family.
+The Cook family has some big news to share! We want to announce to you Charles Ezra Cook, our second child and first son. We are presently on day six and mug 58 of coffee, but thankful to God for our newest addition to the family.
 
 <!--more-->
 
@@ -27,20 +27,22 @@ We live in Houston. Houston was [in the news](https://www.google.com/search?q=ho
   <img src="https://i.imgur.com/haFu0vq.jpg" />
 </p>
 
-I'll spare you the details, but along with the rest of Texas, Houston spent the better part of the week in temperatures significatly lower than freezing. Rain turned to ice, hail, and even snow. It crippled a city (and state) infrastucure not built to handle anything less than balmy. Rolling power outages, loss of water, and subequent boil notices insued.
+I'll spare you the details, but along with the rest of Texas, Houston spent the better part of the week in temperatures significantly lower than freezing. Rain turned to ice, hail, and even snow. It crippled a city (and state) infrastructure not built to handle anything less than balmy. Rolling power outages, loss of water, and subsequent boil notices ensued.
 
-Ezra had a scheduled delivery at the height of snowmageddon. We booked a hotel near the hospital so we could still deliver the next day if the roads stayed impassible, only to get turned away from the hotel that day as the power grid failed. We lost power at our house that night. We left for the hospital again on February 16 (the exact day we moved to Houston four years ago) as Nora and the grandparents spent the next 24 hours with no power or water at our house in 15 degree weather. 
+Ezra had a scheduled delivery at the height of snowmageddon. We booked a hotel near the hospital so we could still deliver the next day if the roads stayed impassible, only to get turned away from the hotel that day as the power grid failed. We lost power at our house that night. We left for the hospital again on February 16 (the exact day we moved to Houston four years ago) as Nora and the grandparents spent the next 24 hours with no power or water at our house in 15 degree weather.
 
-Ezra was born early afternoon of that day, and we spent the next two nights at the hospital. We emerged again with healthy baby, healthy momma, and full hearts. We can even use our water again without boiling.
+Ezra was born early afternoon of that day, and we spent the next two nights at the hospital. We emerged again with healthy baby, healthy momma, and full hearts. 
+
+In all seriousness, we are extremely grateful to God for sustaining us and our family through the last week. We know too many stories of people who lost power, water, and heat for much longer.
 
 ---
 ## The Questions
 1. **Did you know the gender?** No. We did not find out for Nora and loved the surprise, so we decided to the do same with Ezra. We didn't know he was a boy until shortly before you did.
 2. **How did you pick the name?** *Charles* is a family name. My full name is Charles Keelan Cook, my father's is Charles Robert Cook. We wanted to continue this tradition with our first male child, if we had one. After considering the middle name *Danger*, we landed on *Ezra* instead. For those familiar with the Christian Scriptures, *Ezra* was a scribe and priest in the Old Testament. `Add more about Ezra and why we chose that biblical name.`
-3. **Any questions concerning details of procedure?** `Do we want to discuss that it was a c section?`
+3. **How is Nora adjusting to being a big sister?** Nora seems to waffle between loving the new baby and being largely disinterested. She has been enjoying the attention of both sets of grandparents, which has made the immediate transition easier for her. We are sure there will be some growing pains over the next few weeks but she's doing great so far!
 4. 
 
 ## The Pictures
 Finally, what birth announcement would be complete without some cute pictures? Enjoy!
 
-![Ezra Birth Collage](https://i.imgur.com/5SupySr.png)
+`Add pictures`
