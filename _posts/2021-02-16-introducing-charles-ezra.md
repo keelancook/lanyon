@@ -44,4 +44,4 @@ Ezra was born early afternoon of that day, and we spent the next two nights at t
 ## The Pictures
 Finally, what birth announcement would be complete without some cute pictures? Enjoy!
 
-`Add pictures`
+![Ezra Birth Collage](https://i.imgur.com/MgSc7bE.png)
