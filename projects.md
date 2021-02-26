@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Projects
-
+modified: 2021-02-26T06:15:45-06:00
 ---
 
 ## My Commonplace Book
 
 ![Commonplace Banner Image](https://i.imgur.com/BzZOtqw.png)
 
-The commonplace book has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers in general carried what ammounts to a scrapbook that they used to compile all of their notes.
+The commonplace book has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers in general carried what amounts to a scrapbook that they used to compile all of their notes.
 
-Primarily, the notes in [my commonplace book](https://commonplace.ml) will deal with topics or theology and ministry. My hope is that by thinking in public, instead of keeping these notes closed up, my thoughts here will benefit others. And perhaps, these thoughts will be sharpened that was as well.
+Primarily, the notes in [my commonplace book](https://commonplace.ml) will deal with topics of theology and ministry. By thinking in public, instead of keeping these notes closed up, I hope my thoughts here will benefit others. And perhaps, these thoughts will be sharpened as well.
 
 ---
 ## Peoples Next Door
