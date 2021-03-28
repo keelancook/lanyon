@@ -5,7 +5,7 @@ title: About
 ---
 
 
-![Family Photo](https://i.imgur.com/5fkSqIP.jpg)
+![Family Photo](https://i.imgur.com/yaqwzD6.jpg)
 
 Hey there! You've stumbled upon my personal website. You can find my professional site here: [Peoples Next Door](https://keelancook.com). This site is really just an experiment. I'm attempting to learn more about building my own websites with [Jekyll](https://jekyllrb.com). 
 
