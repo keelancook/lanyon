@@ -16,6 +16,7 @@ You can find me on a handful or social media platforms:
 * [Twitter](https://twitter.com/keelancook)
 * [Facebook](https://facebook.com/keelancook)
 * [LinkedIn](https://linkedin.com/in/keelancook)
+* <a rel="me" href="https://mastodon.social/@keelan">Mastodon</a> - *I'm dabbling with the concept of decentralized social media as a means to get away from the toxicity on ad-revenue based "big social".*
 
 
 Thanks for reading!
