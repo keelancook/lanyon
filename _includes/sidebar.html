@@ -8,6 +8,21 @@
     <p>{{ site.description }}</p>
   </div>
 
+{% if site.google_search %}
+  <div id="searchbox2" style="margin:0 auto; display: table;">
+  <div class="searchcont2">
+      <!-- span class="searchicon2"><i class="fa fa-search fa-2x"></i></span -->
+      <form role="search" method="get" action="{{ site.url }}/cse/">
+          <input id="searchString2" name="searchString2"
+                 placeholder=" Search" type="text">
+      </form>
+  </div>
+  </div>
+{% else %}
+  Search box will show up here if Google Custom Search key is set in <code>_config.yml</code>
+{% endif %}
+
+
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
@@ -37,21 +52,7 @@
        <a rel="me" href="https://mastodon.social/@keelan"><i class="fab fa-mastodon fa-2x"></i></a> &nbsp;
       </p>
   </div>  
-    
-  {% if site.google_search %}
-  <div id="searchbox2" style="margin:0 auto; display: table;">
-  <div class="searchcont2">
-      <!-- span class="searchicon2"><i class="fa fa-search fa-2x"></i></span -->
-      <form role="search" method="get" action="{{ site.url }}/cse/">
-          <input id="searchString2" name="searchString2"
-                 placeholder=" Search" type="text">
-      </form>
-  </div>
-  </div>
-  {% else %}
-  Search box will show up here if Google Custom Search key is set in <code>_config.yml</code>
-  {% endif %}
-
+    \
   <div class="sidebar-item">
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved. This site may earn from qualifying purchases as an Amazon Associate.
