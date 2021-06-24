@@ -1,5 +1,6 @@
 ---
-layout: search
+layout: page
+title: Search
 ---
 
 <form action="/search" method="get">
