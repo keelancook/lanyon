@@ -25,5 +25,6 @@ title: Search
     {% endfor %}
   };
 </script>
-<script src="/js/lunr.min.js"></script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+
 <script src="/js/search.js"></script>
