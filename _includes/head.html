@@ -12,6 +12,8 @@
     {% endif %}
   </title>
 
+  {% include google-search.html %}
+
   {% if page.url and site.baseurl %}
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% endif %}
