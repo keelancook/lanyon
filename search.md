@@ -26,5 +26,5 @@ title: Search
   };
 </script>
 <script src="https://unpkg.com/lunr/lunr.js"></script>
-
+<script src="/js/lunr.js"></script>
 <script src="/js/search.js"></script>
